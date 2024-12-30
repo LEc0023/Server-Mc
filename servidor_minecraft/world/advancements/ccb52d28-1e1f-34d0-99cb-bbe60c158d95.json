@@ -115,9 +115,72 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2024-12-30 23:17:43 +0000"
+      "minecraft:stony_peaks": "2024-12-30 23:38:23 +0000",
+      "minecraft:sparse_jungle": "2024-12-30 23:17:43 +0000",
+      "minecraft:forest": "2024-12-30 23:38:06 +0000",
+      "minecraft:frozen_peaks": "2024-12-30 23:39:04 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-30 23:37:44 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_jungle": "2024-12-30 23:33:03 +0000"
+    },
+    "done": false
+  },
+  "cnc:gooseadvancement": {
+    "criteria": {
+      "gooseadvancement_0": "2024-12-30 23:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "glow_berries": "2024-12-30 23:34:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-30 23:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 23:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-30 23:32:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-30 23:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-30 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-30 23:30:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -3073,3 +3073,8 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [30Dec2024 23:20:05.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [30Dec2024 23:20:05.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [30Dec2024 23:20:05.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 23:27:45.946] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2197, l='ServerLevel[world]', x=54.50, y=85.00, z=-780.50]
+[30Dec2024 23:28:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Peace Was Never An Option]
+[30Dec2024 23:30:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Stone Age]
+[30Dec2024 23:32:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Getting an Upgrade]
+[30Dec2024 23:33:18.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Crops of the Wild]

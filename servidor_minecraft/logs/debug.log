@@ -10745,3 +10745,27 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [30Dec2024 23:22:07.050] [Worker-Main-4/DEBUG] [ModernFix/]: Structure graveyard:crypt/corridor_pool/end_03 is being run through DFU (hash 5863cca14595378676a09a97076db01e490c3a86a7685a63811cf54ccb721e1b), this will cause launch time delays
 [30Dec2024 23:22:09.795] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:nature/floating_islands is being run through DFU (hash 0079a7c145057f0c55ff8d5228f0e6953380c0ea0d5faa127fcc4241ad2a072c), this will cause launch time delays
 [30Dec2024 23:22:11.906] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.37 and blood value 15 for entity gnumus:big_snout
+[30Dec2024 23:24:57.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:24:57.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:26:10.057] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:other_decoration/bee_dome is being run through DFU (hash e8d8119aa8f44225032b6eb9e45f42a840f6e6c361f54e1cdbf0ea56ae57a72d), this will cause launch time delays
+[30Dec2024 23:27:45.946] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2197, l='ServerLevel[world]', x=54.50, y=85.00, z=-780.50]
+[30Dec2024 23:28:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Peace Was Never An Option]
+[30Dec2024 23:29:57.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:29:57.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:30:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Stone Age]
+[30Dec2024 23:32:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Getting an Upgrade]
+[30Dec2024 23:33:07.909] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[30Dec2024 23:33:18.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Crops of the Wild]
+[30Dec2024 23:34:21.762] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity cnc:coyote
+[30Dec2024 23:34:43.922] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_09 is being run through DFU (hash c5992bdd829d32aa0929d3b8c005aa4eeaf4e7a796cdc666c5ba9bf38564ca72), this will cause launch time delays
+[30Dec2024 23:34:57.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:34:57.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:37:30.378] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_15 is being run through DFU (hash 65a51d4ed20945368a3d8a173abeb02a74526e48372e8135f5e9c1a5a8d1471b), this will cause launch time delays
+[30Dec2024 23:37:33.166] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:houses/flower_hole is being run through DFU (hash f5aeb1b59d16e871c4967b47adc2c8ddfecdde4d36d41d402b2daecaf13a1c2a), this will cause launch time delays
+[30Dec2024 23:37:56.856] [Worker-Main-4/DEBUG] [ModernFix/]: Structure mvs:houses/small_swamp_house is being run through DFU (hash 49b559cdae8260b9556da69c7234437ff98d4f4ee73783095f522a21bb050681), this will cause launch time delays
+[30Dec2024 23:37:58.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.03 and blood value 0 for entity cnc:mouse
+[30Dec2024 23:38:09.805] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity cnc:black_bear
+[30Dec2024 23:38:12.698] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:altar/altar_01 is being run through DFU (hash 2a05706fc36eea47afea9ef4583dd2beb10afba85f301dfb321080083a584d25), this will cause launch time delays
+[30Dec2024 23:39:57.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:39:57.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:41:09.721] [Worker-Main-4/DEBUG] [ModernFix/]: Structure mvs:well/well_lower_no_chest is being run through DFU (hash 2931c3154bc804d79a5e482ef1cce7105cf3b606d5defb22adc472c7642282fa), this will cause launch time delays
