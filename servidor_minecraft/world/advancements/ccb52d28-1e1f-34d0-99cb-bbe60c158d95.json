@@ -116,6 +116,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-31 22:41:17 +0000",
+      "minecraft:taiga": "2024-12-31 22:42:18 +0000",
       "minecraft:dark_forest": "2024-12-31 19:13:54 +0000",
       "minecraft:meadow": "2024-12-31 19:19:47 +0000"
     },
@@ -124,6 +126,30 @@
   "cnc:whitetail_advancement": {
     "criteria": {
       "whitetail_advancement_0": "2024-12-31 19:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-31 22:44:09 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-31 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-31 22:44:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2024-12-31 22:42:07 +0000"
     },
     "done": true
   },
