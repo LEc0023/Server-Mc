@@ -10769,3 +10769,46 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [30Dec2024 23:39:57.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 23:39:57.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 23:41:09.721] [Worker-Main-4/DEBUG] [ModernFix/]: Structure mvs:well/well_lower_no_chest is being run through DFU (hash 2931c3154bc804d79a5e482ef1cce7105cf3b606d5defb22adc472c7642282fa), this will cause launch time delays
+[30Dec2024 23:44:05.956] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.5 and blood value 0 for entity cnc:giant_boar
+[30Dec2024 23:44:06.103] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$90776085aa1f4cca97263f89d6c476e5 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[30Dec2024 23:44:57.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:44:57.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:45:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Acquire Hardware]
+[30Dec2024 23:45:47.528] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.5 and blood value 3 for entity cnc:snake
+[30Dec2024 23:46:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Isn't It Iron Pick]
+[30Dec2024 23:47:19.024] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.5 and blood value 3 for entity cnc:rattlesnake
+[30Dec2024 23:47:19.713] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity gnumus:marsupial_mousse
+[30Dec2024 23:47:21.416] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_08 is being run through DFU (hash 03673c988a4e037dc1f4cb5fe7f9441c58b69fceece6acdffe4ecee00247d5ff), this will cause launch time delays
+[30Dec2024 23:47:24.271] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.14 and blood value 15 for entity cnc:elk
+[30Dec2024 23:47:24.272] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.14 and blood value 15 for entity cnc:elk
+[30Dec2024 23:48:31.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Stay dead]
+[30Dec2024 23:48:40.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Monster Hunter]
+[30Dec2024 23:49:57.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:49:57.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:50:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Vasebreaker]
+[30Dec2024 23:51:36.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6872, l='ServerLevel[world]', x=-51.50, y=74.00, z=-645.50]
+[30Dec2024 23:51:46.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7003, l='ServerLevel[world]', x=23.50, y=75.00, z=-734.50]
+[30Dec2024 23:52:21.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.6 and blood value 0 for entity quark:toretoise
+[30Dec2024 23:53:03.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7353, l='ServerLevel[world]', x=54.50, y=85.00, z=-781.50]
+[30Dec2024 23:53:05.001] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity ecologics:coconut_crab
+[30Dec2024 23:54:00.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7466, l='ServerLevel[world]', x=53.50, y=85.00, z=-782.50]
+[30Dec2024 23:54:56.646] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7603, l='ServerLevel[world]', x=52.50, y=85.00, z=-782.50]
+[30Dec2024 23:54:57.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:54:57.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:55:46.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7737, l='ServerLevel[world]', x=18.50, y=71.00, z=-723.50]
+[30Dec2024 23:56:54.294] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7898, l='ServerLevel[world]', x=52.50, y=85.00, z=-780.50]
+[30Dec2024 23:57:35.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8010, l='ServerLevel[world]', x=16.50, y=71.00, z=-723.50]
+[30Dec2024 23:59:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Goose
+[30Dec2024 23:59:46.095] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8961, l='ServerLevel[world]', x=-48.50, y=74.00, z=-661.50]
+[30Dec2024 23:59:57.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:59:57.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:01:43.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Plan "Boar"]
+[31Dec2024 00:02:13.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9823, l='ServerLevel[world]', x=-82.50, y=74.00, z=-658.50]
+[31Dec2024 00:04:57.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:04:57.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:09:57.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:09:57.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:10:04.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Corpse Fly
+[31Dec2024 00:11:09.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11579, l='ServerLevel[world]', x=-80.50, y=74.00, z=-658.50]
+[31Dec2024 00:11:54.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11706, l='ServerLevel[world]', x=-69.50, y=74.00, z=-632.50]
+[31Dec2024 00:12:33.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11761, l='ServerLevel[world]', x=-82.50, y=74.00, z=-657.50]
