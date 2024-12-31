@@ -118,7 +118,10 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-31 22:41:17 +0000",
       "minecraft:taiga": "2024-12-31 22:42:18 +0000",
+      "minecraft:birch_forest": "2024-12-31 23:40:29 +0000",
       "minecraft:dark_forest": "2024-12-31 19:13:54 +0000",
+      "minecraft:grove": "2024-12-31 23:41:57 +0000",
+      "minecraft:frozen_peaks": "2024-12-31 23:42:11 +0000",
       "minecraft:meadow": "2024-12-31 19:19:47 +0000"
     },
     "done": false
@@ -129,11 +132,11 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "dungeons_arise:find_keep_kayra": {
     "criteria": {
-      "bread": "2024-12-31 22:44:09 +0000"
+      "location0": "2024-12-31 22:42:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
@@ -141,15 +144,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-31 22:44:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-31 22:44:09 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_keep_kayra": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "location0": "2024-12-31 22:42:07 +0000"
+      "killed_by_something": "2024-12-31 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-12-31 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2024-12-31 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-31 23:45:03 +0000"
     },
     "done": true
   },
