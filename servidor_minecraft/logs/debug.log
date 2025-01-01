@@ -18400,3 +18400,116 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [01Jan2025 20:58:44.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8858, l='ServerLevel[world]', x=-534.50, y=81.00, z=295.50]
 [01Jan2025 20:59:07.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8904, l='ServerLevel[world]', x=-562.50, y=74.00, z=262.50]
 [01Jan2025 20:59:40.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8960, l='ServerLevel[world]', x=-571.50, y=79.00, z=254.50]
+[01Jan2025 21:01:23.802] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9117, l='ServerLevel[world]', x=-554.50, y=84.00, z=288.50]
+[01Jan2025 21:01:58.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:01:58.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:02:02.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9187, l='ServerLevel[world]', x=-554.50, y=84.00, z=289.50]
+[01Jan2025 21:02:12.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9199, l='ServerLevel[world]', x=-540.50, y=82.00, z=241.50]
+[01Jan2025 21:03:18.339] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jan2025 21:03:37.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9384, l='ServerLevel[world]', x=-532.50, y=79.00, z=222.50]
+[01Jan2025 21:03:59.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9513, l='ServerLevel[world]', x=-519.50, y=84.00, z=266.50]
+[01Jan2025 21:06:58.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:06:58.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:08:58.803] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[01Jan2025 21:08:58.817] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[01Jan2025 21:09:05.503] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[01Jan2025 21:09:11.036] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[01Jan2025 21:09:11.039] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[01Jan2025 21:09:11.050] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[01Jan2025 21:09:11.054] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[01Jan2025 21:09:11.056] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[01Jan2025 21:09:11.059] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[01Jan2025 21:09:11.062] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[01Jan2025 21:09:11.064] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[01Jan2025 21:09:11.066] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[01Jan2025 21:09:11.067] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[01Jan2025 21:09:11.070] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[01Jan2025 21:09:11.072] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[01Jan2025 21:09:11.074] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[01Jan2025 21:09:11.077] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[01Jan2025 21:09:11.080] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[01Jan2025 21:09:11.082] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[01Jan2025 21:09:11.085] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[01Jan2025 21:09:11.087] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[01Jan2025 21:09:11.092] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[01Jan2025 21:09:11.098] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[01Jan2025 21:09:11.100] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[01Jan2025 21:09:11.103] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[01Jan2025 21:09:11.107] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[01Jan2025 21:09:11.111] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[01Jan2025 21:09:11.113] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[01Jan2025 21:09:11.119] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[01Jan2025 21:09:11.125] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[01Jan2025 21:09:11.128] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[01Jan2025 21:09:11.138] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[01Jan2025 21:09:18.741] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[01Jan2025 21:09:23.322] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[01Jan2025 21:09:23.331] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[01Jan2025 21:09:27.781] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[01Jan2025 21:09:29.279] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[01Jan2025 21:09:29.294] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[01Jan2025 21:09:29.312] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[01Jan2025 21:09:29.327] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[01Jan2025 21:09:29.348] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[01Jan2025 21:09:29.364] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[01Jan2025 21:09:29.380] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[01Jan2025 21:09:29.401] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[01Jan2025 21:09:29.426] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[01Jan2025 21:09:29.449] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[01Jan2025 21:09:29.477] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[01Jan2025 21:09:29.490] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[01Jan2025 21:09:29.495] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[01Jan2025 21:09:29.505] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[01Jan2025 21:09:29.516] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[01Jan2025 21:09:29.521] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[01Jan2025 21:09:29.534] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[01Jan2025 21:09:29.547] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[01Jan2025 21:09:29.651] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[01Jan2025 21:09:29.670] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[01Jan2025 21:09:29.681] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[01Jan2025 21:09:29.698] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[01Jan2025 21:09:29.722] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[01Jan2025 21:09:29.741] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[01Jan2025 21:09:29.770] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[01Jan2025 21:09:29.785] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[01Jan2025 21:09:29.803] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[01Jan2025 21:09:29.833] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[01Jan2025 21:09:29.848] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[01Jan2025 21:09:30.895] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_swamp_house
+[01Jan2025 21:09:33.734] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[01Jan2025 21:09:33.740] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[01Jan2025 21:09:33.746] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium1
+[01Jan2025 21:09:33.759] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[01Jan2025 21:09:33.763] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[01Jan2025 21:09:36.074] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[01Jan2025 21:09:47.349] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[01Jan2025 21:09:47.358] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[01Jan2025 21:09:47.367] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[01Jan2025 21:09:47.373] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/classic/town_centers/classic_meeting_point_1/well_top
+[01Jan2025 21:09:47.380] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[01Jan2025 21:09:47.385] [Worker-Main-29/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3 is being run through DFU (hash 20080de75a183b30b4ea9d8c8d66a26f5a3ee8593a0c4c58b6e712bdacb0aaf6), this will cause launch time delays
+[01Jan2025 21:09:47.605] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[01Jan2025 21:09:47.621] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[01Jan2025 21:09:47.630] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[01Jan2025 21:09:47.642] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[01Jan2025 21:09:47.670] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[01Jan2025 21:09:47.681] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[01Jan2025 21:09:47.693] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[01Jan2025 21:09:47.700] [Worker-Main-29/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3 is being run through DFU (hash 59a9a0d79ad86ad99a3e7ebba5f11a9d6d1909779d13188a935a9a0d8534be30), this will cause launch time delays
+[01Jan2025 21:09:47.729] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[01Jan2025 21:09:47.738] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/town_centers/rustic_meeting_point_1
+[01Jan2025 21:09:47.754] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[01Jan2025 21:09:47.766] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[01Jan2025 21:09:47.778] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[01Jan2025 21:09:47.807] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[01Jan2025 21:09:47.819] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[01Jan2025 21:09:47.836] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/town_centers/med_meeting_point_1
+[01Jan2025 21:09:47.845] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[01Jan2025 21:09:47.880] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[01Jan2025 21:09:51.195] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[01Jan2025 21:11:58.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:11:58.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:16:38.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[01Jan2025 21:16:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game
+[01Jan2025 21:16:58.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:16:58.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
