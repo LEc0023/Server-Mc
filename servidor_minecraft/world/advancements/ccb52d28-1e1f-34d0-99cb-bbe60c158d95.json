@@ -1,149 +1,114 @@
 {
-  "mca:recipes/building_blocks/headstones": {
+  "cnc:chupacabraadvancement": {
     "criteria": {
-      "has_the_slanted_recipe": "2025-01-01 01:25:10 +0000"
+      "chupacabraadvancement_0": "2025-01-01 20:30:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "cnc:squonkadvancement": {
     "criteria": {
-      "seeds": "2025-01-01 01:25:10 +0000"
+      "squonkadvancement_0": "2025-01-01 20:31:53 +0000"
     },
     "done": true
   },
   "takesapillage:root": {
     "criteria": {
-      "always": "2025-01-01 01:25:35 +0000"
+      "always": "2025-01-01 20:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-01 20:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-01 20:34:56 +0000"
     },
     "done": true
   },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
-      "requirement": "2025-01-01 01:25:35 +0000"
+      "requirement": "2025-01-01 20:22:26 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "WDA": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "cnc:cnc": {
-    "criteria": {
-      "cnc_0": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2025-01-01 01:25:35 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/updraft": {
-    "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/light": {
-    "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
-    "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/natures_wrath": {
-    "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
+      "has_the_cross_recipe": "2025-01-01 20:22:08 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-01-01 01:28:03 +0000",
-      "minecraft:plains": "2025-01-01 01:25:36 +0000"
+      "minecraft:beach": "2025-01-01 20:41:02 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-01 20:26:01 +0000",
+      "minecraft:forest": "2025-01-01 20:22:29 +0000",
+      "minecraft:savanna": "2025-01-01 20:22:27 +0000"
     },
     "done": false
   },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+  "dungeons_arise:wda_root": {
     "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
+      "WDA": "2025-01-01 20:22:26 +0000"
     },
     "done": true
   },
-  "stellarity:story/drop_rare_illager_loot": {
+  "cnc:greywolfadvancement": {
     "criteria": {
-      "drop3": "2025-01-01 01:25:36 +0000",
-      "drop4": "2025-01-01 01:25:36 +0000"
+      "greywolfadvancement_0": "2025-01-01 20:31:01 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/spellbooks/conveyance": {
+  "cnc:howleradvancement": {
     "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
+      "howleradvancement_0": "2025-01-01 20:31:29 +0000"
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "requirement": "2025-01-01 01:25:36 +0000"
+      "bornin_chaos_0": "2025-01-01 20:22:26 +0000"
     },
     "done": true
   },
-  "stellarity:events/items/spellbooks/natures_wrath/been_to_forest": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "1": "2025-01-01 01:29:27 +0000"
+      "seeds": "2025-01-01 20:22:08 +0000"
     },
     "done": true
   },
-  "vampirism:main/root": {
+  "cnc:black_bearadvancement": {
     "criteria": {
-      "main": "2025-01-01 01:28:20 +0000"
+      "black_bearadvancement_0": "2025-01-01 20:31:17 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/family_tree": {
+  "cnc:cnc": {
     "criteria": {
-      "has_item": "2025-01-01 01:28:23 +0000"
+      "cnc_0": "2025-01-01 20:22:26 +0000"
     },
     "done": true
   },
-  "repurposed_structures:villages": {
+  "cataclysm:root": {
     "criteria": {
-      "in_village_oak": "2025-01-01 01:28:02 +0000"
+      "custom_test_name": "2025-01-01 20:22:26 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-01-01 20:22:26 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-01-01 20:22:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
