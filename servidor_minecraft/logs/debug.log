@@ -7662,3 +7662,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 23:16:02.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.2 and blood value 15 for entity untamedwilds:bear
 [01Jan2025 23:16:03.519] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
 [01Jan2025 23:16:07.105] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[01Jan2025 23:16:51.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[01Jan2025 23:16:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game
+[01Jan2025 23:19:17.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:19:17.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:24:17.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:24:17.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

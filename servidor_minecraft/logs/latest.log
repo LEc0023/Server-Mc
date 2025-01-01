@@ -1188,3 +1188,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Jan2025 23:14:56.012] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Jan2025 23:14:56.012] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Jan2025 23:14:56.013] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Jan2025 23:16:51.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[01Jan2025 23:16:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game
