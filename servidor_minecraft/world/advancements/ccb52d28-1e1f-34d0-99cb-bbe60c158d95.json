@@ -1,119 +1,67 @@
 {
-  "cnc:chupacabraadvancement": {
-    "criteria": {
-      "chupacabraadvancement_0": "2025-01-01 20:30:55 +0000"
-    },
-    "done": true
-  },
-  "cnc:squonkadvancement": {
-    "criteria": {
-      "squonkadvancement_0": "2025-01-01 20:31:53 +0000"
-    },
-    "done": true
-  },
   "takesapillage:root": {
     "criteria": {
-      "always": "2025-01-01 20:22:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-01-01 20:39:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-01 20:34:56 +0000"
+      "always": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
-      "requirement": "2025-01-01 20:22:26 +0000"
+      "requirement": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "has_the_cross_recipe": "2025-01-01 20:22:08 +0000"
+      "has_the_upright_recipe": "2025-01-01 22:48:15 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-01-01 20:41:02 +0000",
-      "minecraft:lukewarm_ocean": "2025-01-01 20:26:01 +0000",
-      "minecraft:forest": "2025-01-01 20:22:29 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-01-01 21:08:59 +0000",
-      "minecraft:savanna": "2025-01-01 20:22:27 +0000"
+      "minecraft:forest": "2025-01-01 22:48:38 +0000"
     },
     "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2025-01-01 20:22:26 +0000"
+      "WDA": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
-  "repurposed_structures:witch_huts": {
+  "minecraft:end/levitate": {
     "criteria": {
-      "in_witch_hut_oak": "2025-01-01 21:15:59 +0000"
-    },
-    "done": false
-  },
-  "cnc:greywolfadvancement": {
-    "criteria": {
-      "greywolfadvancement_0": "2025-01-01 20:31:01 +0000"
-    },
-    "done": true
-  },
-  "cnc:howleradvancement": {
-    "criteria": {
-      "howleradvancement_0": "2025-01-01 20:31:29 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-01-01 20:22:26 +0000"
+      "levitated": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-01-01 20:22:08 +0000"
+      "seeds": "2025-01-01 22:48:15 +0000"
     },
     "done": true
   },
-  "cnc:black_bearadvancement": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "black_bearadvancement_0": "2025-01-01 20:31:17 +0000"
+      "bornin_chaos_0": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
   "cnc:cnc": {
     "criteria": {
-      "cnc_0": "2025-01-01 20:22:26 +0000"
+      "cnc_0": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-01-01 20:22:26 +0000"
+      "custom_test_name": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
   "stellarity:cursed_tome/root": {
     "criteria": {
-      "requirement": "2025-01-01 20:22:26 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2025-01-01 20:22:26 +0000"
+      "requirement": "2025-01-01 22:48:37 +0000"
     },
     "done": true
   },
