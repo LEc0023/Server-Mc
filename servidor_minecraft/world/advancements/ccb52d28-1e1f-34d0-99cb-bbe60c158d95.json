@@ -1,182 +1,75 @@
 {
-  "mca:recipes/building_blocks/headstones": {
-    "criteria": {
-      "has_the_slanted_recipe": "2024-12-31 19:13:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-31 19:13:31 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/updraft": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/light": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
   "takesapillage:root": {
     "criteria": {
-      "always": "2024-12-31 19:13:52 +0000"
+      "always": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
+      "requirement": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+  "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/natures_wrath": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/drop_rare_illager_loot": {
-    "criteria": {
-      "drop3": "2024-12-31 19:13:52 +0000",
-      "drop4": "2024-12-31 19:13:53 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/conveyance": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "cnc:cnc": {
-    "criteria": {
-      "cnc_0": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2024-12-31 19:13:52 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
-    "criteria": {
-      "requirement": "2024-12-31 19:13:53 +0000"
+      "has_the_cross_recipe": "2025-01-01 00:23:30 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2024-12-31 22:41:17 +0000",
-      "minecraft:taiga": "2024-12-31 22:42:18 +0000",
-      "minecraft:birch_forest": "2024-12-31 23:40:29 +0000",
-      "minecraft:dark_forest": "2024-12-31 19:13:54 +0000",
-      "minecraft:grove": "2024-12-31 23:41:57 +0000",
-      "minecraft:frozen_peaks": "2024-12-31 23:42:11 +0000",
-      "minecraft:meadow": "2024-12-31 19:19:47 +0000"
+      "minecraft:taiga": "2025-01-01 00:25:10 +0000",
+      "minecraft:cold_ocean": "2025-01-01 00:26:43 +0000",
+      "minecraft:forest": "2025-01-01 00:23:47 +0000"
     },
     "done": false
   },
-  "cnc:whitetail_advancement": {
+  "dungeons_arise:wda_root": {
     "criteria": {
-      "whitetail_advancement_0": "2024-12-31 19:24:26 +0000"
+      "WDA": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_keep_kayra": {
+  "minecraft:end/levitate": {
     "criteria": {
-      "location0": "2024-12-31 22:42:07 +0000"
+      "levitated": "2025-01-01 00:23:47 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "location0": "2024-12-31 22:42:26 +0000"
+      "bornin_chaos_0": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "bread": "2024-12-31 22:44:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-31 22:44:09 +0000"
+      "seeds": "2025-01-01 00:23:30 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "cnc:cnc": {
     "criteria": {
-      "killed_by_something": "2024-12-31 23:39:38 +0000"
+      "cnc_0": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
-  "stellarity:events/on_death": {
+  "cataclysm:root": {
     "criteria": {
-      "requirement": "2024-12-31 23:39:38 +0000"
+      "custom_test_name": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
-  "cnc:elkadvancement": {
+  "stellarity:cursed_tome/root": {
     "criteria": {
-      "elkadvancement_0": "2024-12-31 23:41:39 +0000"
+      "requirement": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "repurposed_structures:root": {
     "criteria": {
-      "crafting_table": "2024-12-31 23:45:03 +0000"
+      "always": "2025-01-01 00:23:46 +0000"
     },
     "done": true
   },
