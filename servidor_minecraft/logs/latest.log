@@ -1136,3 +1136,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [02Jan2025 22:14:59.541] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=-2, z=-1121}
 [02Jan2025 22:16:09.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Crops of the Wild]
 [02Jan2025 22:16:21.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Suit Up]
+[02Jan2025 22:24:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Skeleton Thrasher

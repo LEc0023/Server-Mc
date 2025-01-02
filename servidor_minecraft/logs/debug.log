@@ -7762,3 +7762,11 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 22:16:01.324] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [02Jan2025 22:16:09.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Crops of the Wild]
 [02Jan2025 22:16:21.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Suit Up]
+[02Jan2025 22:17:24.235] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[02Jan2025 22:17:47.365] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[02Jan2025 22:17:51.396] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[02Jan2025 22:19:45.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:19:45.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:24:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Skeleton Thrasher
+[02Jan2025 22:24:45.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:24:45.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
