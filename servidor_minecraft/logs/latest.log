@@ -1142,3 +1142,12 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [02Jan2025 21:45:09.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC joined the game
 [02Jan2025 21:45:09.299] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
 [02Jan2025 21:45:09.300] [Server thread/INFO] [Jade/]: Syncing config to LBC (ccb52d28-1e1f-34d0-99cb-bbe60c158d95)
+[02Jan2025 21:53:59.961] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian]] from pos BlockPos{x=-219, y=87, z=11}
+[02Jan2025 21:54:02.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[02Jan2025 21:55:51.352] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[02Jan2025 21:55:51.353] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[02Jan2025 21:56:16.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [This Must be a Sign!]
+[02Jan2025 21:57:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Truth in Legend]
+[02Jan2025 21:59:21.338] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[02Jan2025 22:00:29.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[02Jan2025 22:00:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game

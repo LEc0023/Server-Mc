@@ -8736,3 +8736,144 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 21:47:43.803] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.5 and blood value 3 for entity cnc:rattlesnake
 [02Jan2025 21:48:23.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 21:48:23.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:53:23.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:53:23.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:53:59.961] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian]] from pos BlockPos{x=-219, y=87, z=11}
+[02Jan2025 21:54:00.149] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[02Jan2025 21:54:00.833] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[02Jan2025 21:54:00.857] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[02Jan2025 21:54:00.863] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[02Jan2025 21:54:01.286] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_02 is being run through DFU (hash 6876783b18ee8e14e962fe3e67b57c2ec75aef1c567aabf6f65e1692264c8401), this will cause launch time delays
+[02Jan2025 21:54:01.323] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/sparse_jungle_tiki_torch_1 is being run through DFU (hash 1780b483f6374055e911f9fded9ad3261051bd0be3a389373de7be596242ae2c), this will cause launch time delays
+[02Jan2025 21:54:01.358] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/villagers/unemployed is being run through DFU (hash 0132c46fda96cac5f2b646ea9fbe637ff58ea137ceca1902dd82d0522c5f166e), this will cause launch time delays
+[02Jan2025 21:54:01.570] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_02 is being run through DFU (hash 8ff34e871ca18d1956d8792cf0c01e7ef5bc3f5588224e5b2a9a004c02474fba), this will cause launch time delays
+[02Jan2025 21:54:01.580] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[02Jan2025 21:54:01.580] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_01 is being run through DFU (hash d9fca7e9254e6485570bacd205ebfe9f74224795a9f671ad9bf329a3d3001d2c), this will cause launch time delays
+[02Jan2025 21:54:01.590] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/villagers/baby is being run through DFU (hash 2e43b39e321b248853b6f24d5c71c7db67e12af716a45f709540ecee7a71593a), this will cause launch time delays
+[02Jan2025 21:54:01.598] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_01 is being run through DFU (hash a87586f8aaa3538b0ac431337908482ea95df9e053e9f1953e499da67b30b16a), this will cause launch time delays
+[02Jan2025 21:54:01.606] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_toolsmith_and_weaponsmith_1 is being run through DFU (hash 4cbddd7addc4f96d1cfb9095afbc727d80c0554d871e1924b1a53a20c92ece6d), this will cause launch time delays
+[02Jan2025 21:54:01.626] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_butcher_and_shepherd_1 is being run through DFU (hash cea44a5fa821878e42d5f5900dc8c41081bfb44cea221e3ecb215e89e3fcc5db), this will cause launch time delays
+[02Jan2025 21:54:01.637] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1 is being run through DFU (hash 91cb427e973f4c54aa6c35d85ef3a1d6913284b0bc93e59600595809d971b57c), this will cause launch time delays
+[02Jan2025 21:54:01.643] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_leatherworker_1 is being run through DFU (hash 540994973e4067cb27349951181741de85a317ecf2efdcd78843e6bb9e38337f), this will cause launch time delays
+[02Jan2025 21:54:01.647] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_farm_1 is being run through DFU (hash ee25ebaff417fb2ba98f066515e38f8682e0c3ba172763d10fd6cc0cad521f4e), this will cause launch time delays
+[02Jan2025 21:54:01.651] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_farm_1 is being run through DFU (hash 054e07e80507494fcc49acdc079d0dac23876340a3c74c8b3fa04aea05c83853), this will cause launch time delays
+[02Jan2025 21:54:01.656] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_fisher_and_fletcher_1 is being run through DFU (hash ef7f2214384eaecc3a53d1f1783cfdf6f8473b1049abc7b7e509018bd6e5ddd9), this will cause launch time delays
+[02Jan2025 21:54:01.661] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_cartographer_and_library_1 is being run through DFU (hash 1b45937b71377968b1870c51081fc6b7abd4ec816eb7934b3513ad875c25505a), this will cause launch time delays
+[02Jan2025 21:54:01.672] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_1 is being run through DFU (hash 321dfa2656bfb326c7f5b0a2cf2f42d803478266dd1ca1f69ae027995930ef4b), this will cause launch time delays
+[02Jan2025 21:54:01.677] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_2 is being run through DFU (hash 4cbe94afa44200500e02906d3d4f0777767e291b75cd7d3fcd8f7e07d5d20b07), this will cause launch time delays
+[02Jan2025 21:54:01.682] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_3 is being run through DFU (hash aca3328734ea9faf4bf3619d5ade73a4e9a2ce5a3864af82962f56ed53085cdb), this will cause launch time delays
+[02Jan2025 21:54:01.687] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_4 is being run through DFU (hash 557a4ebe58fd17ddcb91c36a2e817714da46426e5ae6427387d877cfb5a932be), this will cause launch time delays
+[02Jan2025 21:54:01.691] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_1 is being run through DFU (hash 44b13907f7f3ef370184a56e53e39b5b2cb842fef48a70656f40f6f555140e01), this will cause launch time delays
+[02Jan2025 21:54:01.699] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_2 is being run through DFU (hash 917feb647b15615c1285ee8490745a50adead6daf0b8158787d540191dd0b6df), this will cause launch time delays
+[02Jan2025 21:54:01.708] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_3 is being run through DFU (hash e941f261991ed9f5befc69e711a7f6d7fa5fb56fec39ba889bd836fad26d1d52), this will cause launch time delays
+[02Jan2025 21:54:01.719] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_house_1 is being run through DFU (hash 379385449ee01dfad57f6b3abc8c1bcb327549ad11859844f7d59ffd8262d905), this will cause launch time delays
+[02Jan2025 21:54:01.740] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/villagers/nitwit is being run through DFU (hash c887dee43b5f957628478cc29acba5caa89a656b59103a746e625112cea76d24), this will cause launch time delays
+[02Jan2025 21:54:01.769] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_04 is being run through DFU (hash 936810bf15b0546a5f6a241befd1c9aaa24cb94cf75efabdcd82e3a4938013b4), this will cause launch time delays
+[02Jan2025 21:54:01.795] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_02 is being run through DFU (hash 55e707490d354effc9f1cddd914cdb3441502e038063ce8a48a6fc5614f7ba06), this will cause launch time delays
+[02Jan2025 21:54:01.797] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_03 is being run through DFU (hash 5ff097713932128378d192aeca55c9ff745fc78111ad6f8ad797781fcf452699), this will cause launch time delays
+[02Jan2025 21:54:01.805] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_03 is being run through DFU (hash 95256ec8c05433e7037f7afdc4cbfa9a5ab4bfdd3dce389c0811d28a1d496bfb), this will cause launch time delays
+[02Jan2025 21:54:01.808] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_01 is being run through DFU (hash 857e566ae3ac19d5e08cd1fd14920e2124f0516655ae378b650fdd219fc72544), this will cause launch time delays
+[02Jan2025 21:54:01.815] [Worker-Main-4/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/terminators/terminator_01 is being run through DFU (hash 2702831c0ef8628181b182c75449dcf84669cc4017285ac49520cf558c5f296c), this will cause launch time delays
+[02Jan2025 21:54:02.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[02Jan2025 21:54:03.170] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[02Jan2025 21:54:03.191] [Worker-Main-5/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1 is being run through DFU (hash 02b406e3c7547d698f32f5ca8f6072ca01b8698f5fde1efc60b04098f169e61a), this will cause launch time delays
+[02Jan2025 21:54:03.195] [Worker-Main-5/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/side/beach_main_house_1 is being run through DFU (hash 4594af4c244c073e0d92feafaa26942b97e54f4772e4066371777b25c9c1a55f), this will cause launch time delays
+[02Jan2025 21:54:03.204] [Worker-Main-5/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/side/beach_giant_cross_1 is being run through DFU (hash 7659c15779e9dbc736b66b8b26c8faecb8e65395aba11ab073779f777fa2d1bc), this will cause launch time delays
+[02Jan2025 21:55:25.229] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[02Jan2025 21:55:42.401] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.27 and blood value 0 for entity untamedwilds:snake
+[02Jan2025 21:55:43.296] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[02Jan2025 21:55:49.930] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[02Jan2025 21:55:49.994] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[02Jan2025 21:55:51.352] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[02Jan2025 21:55:51.353] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[02Jan2025 21:55:52.047] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[02Jan2025 21:55:57.977] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[02Jan2025 21:56:16.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [This Must be a Sign!]
+[02Jan2025 21:56:20.032] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/firetower
+[02Jan2025 21:56:20.048] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/grassy_small1
+[02Jan2025 21:56:20.063] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[02Jan2025 21:56:20.082] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[02Jan2025 21:56:20.091] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/main
+[02Jan2025 21:56:20.103] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[02Jan2025 21:56:20.108] [Worker-Main-5/DEBUG] [ModernFix/]: Structure structory:entities/vindicator is being run through DFU (hash 5dd6855f36d88b29c351f5e2b8fa10a2f2de7bf2038af87e3447547776df5d69), this will cause launch time delays
+[02Jan2025 21:56:24.800] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[02Jan2025 21:56:25.103] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[02Jan2025 21:56:28.785] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
+[02Jan2025 21:56:49.244] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[02Jan2025 21:56:52.950] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[02Jan2025 21:56:52.968] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[02Jan2025 21:56:52.978] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[02Jan2025 21:56:52.989] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[02Jan2025 21:56:53.005] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[02Jan2025 21:56:53.040] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_2 is being run through DFU (hash b4a4577ab0bc27c029540a6611d685464b8168d75e9701d583f386916a14bdec), this will cause launch time delays
+[02Jan2025 21:56:53.074] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_1 is being run through DFU (hash 82b1675dc5371bcb229780469d7a3a1abf15a84f21382a3a58da641c3e9c4b33), this will cause launch time delays
+[02Jan2025 21:56:53.100] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_3 is being run through DFU (hash a353250676d19cc6ca66109a21e408c88c997a961dcf868542faa008288cbeca), this will cause launch time delays
+[02Jan2025 21:56:53.123] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_stairway_0 is being run through DFU (hash d5f9d10f5b0fff7f0875ab51c798d961853cc4c7d0f869b3f8bf730e2aa93ee1), this will cause launch time delays
+[02Jan2025 21:56:53.127] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_spawner_1 is being run through DFU (hash 65a3d5f12010f567f19b3b975767a927399048384a30039d250d9c37c2c019bc), this will cause launch time delays
+[02Jan2025 21:56:53.158] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_hub_part_0 is being run through DFU (hash 1cb7d0baa5920e38ec38b47f4c4d7be9878d71b0796c5e39a36842b101cf2732), this will cause launch time delays
+[02Jan2025 21:56:53.178] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_spawner_2 is being run through DFU (hash 9315c662ffeba81401d0546938734a41d551d06ed908974e832f110b53dd6768), this will cause launch time delays
+[02Jan2025 21:56:53.184] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_2 is being run through DFU (hash 98fcc77ddc0f09a5a08bdfd03eb5ccbaa720b67c711cbe908585c8435cafafdd), this will cause launch time delays
+[02Jan2025 21:56:53.186] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_1 is being run through DFU (hash f6900242ec762dbffe9b59287aac35a3771bafb051238a6925f28060d69eaf20), this will cause launch time delays
+[02Jan2025 21:56:53.189] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_3_spawner is being run through DFU (hash 0ecdc3825452dc6133486d24c965e376eb064afce5bbb4fc08e24757721e8465), this will cause launch time delays
+[02Jan2025 21:56:53.195] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_0_normal is being run through DFU (hash 738df7e1362fa5923ad2b0c75cf0056d43b4b3b2ddcfdb6aa3a6454236da47d3), this will cause launch time delays
+[02Jan2025 21:56:53.199] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_3 is being run through DFU (hash 07a09a7dbcc7e18d2c8cbcc86623243c3c2ef9167bd0fc6be0b7d576479c295c), this will cause launch time delays
+[02Jan2025 21:56:53.202] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_barrels_1 is being run through DFU (hash 69421705ae52b0aba082843c180767796018b87c493b5684cf3fedf9761ba572), this will cause launch time delays
+[02Jan2025 21:56:53.206] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_1_spawner is being run through DFU (hash 696573c3018dc8ef7fd5151199bfd30aee23da6bbfb17f74110b7029bd42c074), this will cause launch time delays
+[02Jan2025 21:56:53.209] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_barrels_0 is being run through DFU (hash 5b3739f413ad241810ae00b4b77fa449bd4bbf722b48ba2891cfce3b62c1ea00), this will cause launch time delays
+[02Jan2025 21:56:53.211] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_crossing_0 is being run through DFU (hash 1f8424522b94b29985ffd6f4663466fff9dde04def2cfb23a81f9af2679e20eb), this will cause launch time delays
+[02Jan2025 21:56:53.214] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_corridor_2_temptation is being run through DFU (hash 405bf7dc052761f902be0a831f9c26fe0969472daaddcaae38d4654f8dc549cb), this will cause launch time delays
+[02Jan2025 21:56:53.217] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_housing_0 is being run through DFU (hash d20256ad17dcd84a1be6390790ce7809db4ae12617a881fad697403134e79488), this will cause launch time delays
+[02Jan2025 21:56:53.224] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_treasure_0 is being run through DFU (hash 3e3c947fede8f52c5a7d209115e8d2e425784c5072dccc5df512349b65bc1aa2), this will cause launch time delays
+[02Jan2025 21:56:53.227] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_spawner_0 is being run through DFU (hash d41bd347b22ed28216660e54a561f75cb5da15ece07982c0a62c2d62a0f73f89), this will cause launch time delays
+[02Jan2025 21:56:55.193] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[02Jan2025 21:56:55.202] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[02Jan2025 21:56:55.207] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[02Jan2025 21:56:55.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[02Jan2025 21:56:55.212] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[02Jan2025 21:56:55.213] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[02Jan2025 21:56:55.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[02Jan2025 21:56:55.218] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[02Jan2025 21:56:55.220] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[02Jan2025 21:56:55.224] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[02Jan2025 21:56:55.228] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[02Jan2025 21:56:55.233] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[02Jan2025 21:56:55.235] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[02Jan2025 21:56:55.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[02Jan2025 21:56:55.237] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[02Jan2025 21:56:55.239] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[02Jan2025 21:56:55.244] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[02Jan2025 21:56:55.246] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[02Jan2025 21:56:55.247] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[02Jan2025 21:56:55.249] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[02Jan2025 21:56:55.251] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[02Jan2025 21:56:55.253] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[02Jan2025 21:56:55.254] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[02Jan2025 21:56:55.256] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[02Jan2025 21:56:55.264] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[02Jan2025 21:56:55.267] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[02Jan2025 21:56:55.270] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[02Jan2025 21:56:55.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[02Jan2025 21:56:55.277] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[02Jan2025 21:56:57.151] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.2 and blood value 15 for entity untamedwilds:bear
+[02Jan2025 21:56:57.229] [Worker-Main-4/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/statue1 is being run through DFU (hash af1abe5f10f08c778adc376828f18423f08c69e59e05ecdbb14b700b1be1f811), this will cause launch time delays
+[02Jan2025 21:56:59.468] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[02Jan2025 21:56:59.522] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[02Jan2025 21:57:13.962] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[02Jan2025 21:57:14.040] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stone_fountain
+[02Jan2025 21:57:14.068] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[02Jan2025 21:57:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Truth in Legend]
+[02Jan2025 21:58:03.194] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jan2025 21:58:26.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:58:26.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:58:55.972] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large2
+[02Jan2025 21:58:55.984] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[02Jan2025 21:58:59.201] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.01 and blood value 7 for entity untamedwilds:monitor
+[02Jan2025 21:58:59.201] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.01 and blood value 7 for entity untamedwilds:monitor
+[02Jan2025 21:58:59.785] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:shed
+[02Jan2025 21:59:03.498] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[02Jan2025 21:59:03.499] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[02Jan2025 21:59:21.338] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[02Jan2025 21:59:27.626] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[02Jan2025 21:59:38.045] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[02Jan2025 22:00:29.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[02Jan2025 22:00:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game
