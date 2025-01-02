@@ -7770,3 +7770,19 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 22:24:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Skeleton Thrasher
 [02Jan2025 22:24:45.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 22:24:45.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:29:45.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:29:45.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:31:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Stone Age]
+[02Jan2025 22:32:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Getting an Upgrade]
+[02Jan2025 22:33:56.493] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:gnumus_ruins
+[02Jan2025 22:34:06.189] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[02Jan2025 22:34:06.286] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
+[02Jan2025 22:34:12.122] [Worker-Main-24/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/table2 is being run through DFU (hash 98c44ac53a74f4752e7efceecedc6be4efd0d612dc613942bbfbeb4f998ba6fc), this will cause launch time delays
+[02Jan2025 22:34:45.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:34:45.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:35:37.425] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[02Jan2025 22:35:39.226] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/large_mushroom
+[02Jan2025 22:35:39.842] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/floating_islands
+[02Jan2025 22:36:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Acquire Hardware]
+[02Jan2025 22:36:39.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Isn't It Iron Pick]
+[02Jan2025 22:37:32.122] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:small_ruins
