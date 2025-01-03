@@ -2442,3 +2442,44 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [03Jan2025 16:59:07.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yung'/297, l='ServerLevel[world]', x=-1098.36, y=122.00, z=-1051.56] died, message: 'Yung hit the ground too hard'
 [03Jan2025 16:59:07.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yung'/297, l='ServerLevel[world]', x=-1098.36, y=122.00, z=-1051.56] died: Yung fell from a high place
 [03Jan2025 17:00:47.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has completed the challenge [Fury of The Frost]
+[03Jan2025 17:08:18.544] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1139, y=119, z=-1408}
+[03Jan2025 17:10:12.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[03Jan2025 17:10:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game
+[03Jan2025 17:11:42.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LBC[/100.126.174.50:49463] logged in with entity id 4235 at (-1120.6628416990504, 127.0, -1118.5451776630296)
+[03Jan2025 17:11:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC joined the game
+[03Jan2025 17:11:42.239] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Jan2025 17:11:42.241] [Server thread/INFO] [Jade/]: Syncing config to LBC (ccb52d28-1e1f-34d0-99cb-bbe60c158d95)
+[03Jan2025 17:13:02.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC moved too quickly! -9.843102619186766,2.0,1.6557488026232932
+[03Jan2025 17:13:02.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10377ms or 207 ticks behind
+[03Jan2025 17:13:16.362] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1487, y=8, z=-1135}
+[03Jan2025 17:14:15.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C4sper[/100.83.101.97:62670] logged in with entity id 8976 at (-119.5, 79.0, -770.5)
+[03Jan2025 17:14:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper joined the game
+[03Jan2025 17:14:15.637] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Jan2025 17:14:15.639] [Server thread/INFO] [Jade/]: Syncing config to C4sper (e0f33314-c0ca-39e8-a7b2-a4e1fed81df0)
+[03Jan2025 17:14:15.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper has made the advancement [Critters n' Crawlers]
+[03Jan2025 17:14:15.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper has made the advancement [Under The Moon]
+[03Jan2025 17:14:15.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper has made the advancement [Rare Find]
+[03Jan2025 17:14:32.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LBC> PORFINNNNNNNN
+[03Jan2025 17:15:02.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Audrey'/8803, l='ServerLevel[world]', x=-1098.37, y=122.00, z=-1051.50] died, message: 'Audrey hit the ground too hard'
+[03Jan2025 17:15:02.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Audrey'/8803, l='ServerLevel[world]', x=-1098.37, y=122.00, z=-1051.50] died: Audrey fell from a high place
+[03Jan2025 17:19:12.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[03Jan2025 17:21:06.701] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14346, l='ServerLevel[world]', x=-1646.50, y=75.00, z=-659.50]
+[03Jan2025 17:21:10.379] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14395, l='ServerLevel[world]', x=-1545.50, y=73.00, z=-708.50]
+[03Jan2025 17:21:19.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dean'/13924, l='ServerLevel[world]', x=-1102.41, y=112.00, z=-1061.22] died, message: 'Dean hit the ground too hard'
+[03Jan2025 17:21:19.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dean'/13924, l='ServerLevel[world]', x=-1102.41, y=112.00, z=-1061.22] died: Dean fell from a high place
+[03Jan2025 17:21:48.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper has made the advancement [Monster Hunter]
+[03Jan2025 17:21:53.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Fallen Chaos Knight
+[03Jan2025 17:21:55.092] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15400, l='ServerLevel[world]', x=-1592.50, y=74.00, z=-670.50]
+[03Jan2025 17:22:29.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Zombie
+[03Jan2025 17:22:46.130] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16374, l='ServerLevel[world]', x=-1593.50, y=74.00, z=-668.50]
+[03Jan2025 17:23:39.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16682, l='ServerLevel[world]', x=-1617.50, y=70.00, z=-658.50]
+[03Jan2025 17:23:56.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16741, l='ServerLevel[world]', x=-1593.50, y=74.00, z=-670.50]
+[03Jan2025 17:24:00.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16750, l='ServerLevel[world]', x=-1564.50, y=75.00, z=-685.50]
+[03Jan2025 17:24:17.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16818, l='ServerLevel[world]', x=-1590.50, y=74.00, z=-675.50]
+[03Jan2025 17:24:26.879] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16847, l='ServerLevel[world]', x=-1588.50, y=74.00, z=-674.50]
+[03Jan2025 17:24:36.728] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16883, l='ServerLevel[world]', x=-1601.50, y=72.00, z=-669.50]
+[03Jan2025 17:24:47.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16936, l='ServerLevel[world]', x=-1601.50, y=72.00, z=-671.50]
+[03Jan2025 17:25:26.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17062, l='ServerLevel[world]', x=-1546.50, y=77.00, z=-684.50]
+[03Jan2025 17:25:37.885] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17100, l='ServerLevel[world]', x=-1647.50, y=75.00, z=-661.50]
+[03Jan2025 17:25:54.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17168, l='ServerLevel[world]', x=-1547.50, y=77.00, z=-684.50]
+[03Jan2025 17:26:32.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17280, l='ServerLevel[world]', x=-1562.50, y=75.00, z=-686.50]

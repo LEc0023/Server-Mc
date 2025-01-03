@@ -181,6 +181,7 @@
       "tropical_fish": "2025-01-02 23:20:26 +0000",
       "apple": "2025-01-02 22:17:04 +0000",
       "bread": "2025-01-02 22:29:34 +0000",
+      "rotten_flesh": "2025-01-03 17:17:49 +0000",
       "carrot": "2025-01-02 22:42:26 +0000"
     },
     "done": false
@@ -322,6 +323,12 @@
   "cnc:wechugeadvancement": {
     "criteria": {
       "wechugeadvancement_0": "2025-01-03 17:00:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-03 17:13:38 +0000"
     },
     "done": true
   },
