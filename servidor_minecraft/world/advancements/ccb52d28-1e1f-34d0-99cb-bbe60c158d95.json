@@ -116,6 +116,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-03 18:33:12 +0000",
+      "minecraft:dark_forest": "2025-01-03 19:32:02 +0000",
       "minecraft:stony_shore": "2025-01-03 18:11:26 +0000",
       "minecraft:forest": "2025-01-03 18:02:24 +0000",
       "minecraft:ocean": "2025-01-03 18:11:07 +0000",
@@ -259,6 +260,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-01-03 19:06:39 +0000"
+    },
+    "done": true
+  },
+  "untamedwilds:zoology/root": {
+    "criteria": {
+      "patchouli_not_loaded": "2025-01-03 19:29:59 +0000"
     },
     "done": true
   },
