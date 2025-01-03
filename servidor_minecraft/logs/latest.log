@@ -1286,3 +1286,6 @@ java.lang.Throwable: null
 [03Jan2025 20:46:24.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Antione'/4380, l='ServerLevel[world]', x=-1890.37, y=71.00, z=944.50] died: Antione was slain by Swarmer
 [03Jan2025 20:46:25.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Harold'/7240, l='ServerLevel[world]', x=-1882.18, y=74.00, z=899.94] died, message: 'Harold was slain by Wendigo'
 [03Jan2025 20:46:25.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Harold'/7240, l='ServerLevel[world]', x=-1882.18, y=74.00, z=899.94] died: Harold was slain by Wendigo
+[03Jan2025 20:48:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was shot by Skeleton
+[03Jan2025 20:52:21.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C4sper lost connection: Disconnected
+[03Jan2025 20:52:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper left the game

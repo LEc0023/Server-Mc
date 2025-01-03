@@ -11,14 +11,28 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2025-01-03 20:44:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_upright_recipe": "2025-01-03 20:33:02 +0000"
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-03 20:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-01-03 20:46:47 +0000",
+      "minecraft:snowy_plains": "2025-01-03 20:44:28 +0000",
       "minecraft:forest": "2025-01-03 20:33:03 +0000"
     },
     "done": false

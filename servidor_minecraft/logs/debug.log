@@ -8349,3 +8349,55 @@ java.lang.Throwable: null
 [03Jan2025 20:46:24.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Antione'/4380, l='ServerLevel[world]', x=-1890.37, y=71.00, z=944.50] died: Antione was slain by Swarmer
 [03Jan2025 20:46:25.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Harold'/7240, l='ServerLevel[world]', x=-1882.18, y=74.00, z=899.94] died, message: 'Harold was slain by Wendigo'
 [03Jan2025 20:46:25.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Harold'/7240, l='ServerLevel[world]', x=-1882.18, y=74.00, z=899.94] died: Harold was slain by Wendigo
+[03Jan2025 20:46:43.091] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[03Jan2025 20:46:43.103] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[03Jan2025 20:46:43.115] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[03Jan2025 20:46:43.121] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[03Jan2025 20:46:43.128] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[03Jan2025 20:46:43.165] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[03Jan2025 20:46:43.182] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[03Jan2025 20:46:43.197] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[03Jan2025 20:46:43.205] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[03Jan2025 20:46:43.281] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[03Jan2025 20:46:43.316] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[03Jan2025 20:46:43.321] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[03Jan2025 20:46:43.334] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[03Jan2025 20:46:43.378] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[03Jan2025 20:46:43.482] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[03Jan2025 20:46:43.517] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_part_1 is being run through DFU (hash e8c6d3e71ef55eb4e2b4d247afdf0a34e24ccb53d0e13a0194b4ca8a4d6cf178), this will cause launch time delays
+[03Jan2025 20:46:44.213] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_ladders_0 is being run through DFU (hash 11164b71518e700dd180d13f05bd869ae125eb4d3618f9ac5037fc48d8b0cc55), this will cause launch time delays
+[03Jan2025 20:46:44.217] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_2 is being run through DFU (hash ae73f209572847a5f20652eaa24cac43a158c2456b9623e26ecac259528e498b), this will cause launch time delays
+[03Jan2025 20:46:44.451] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_0 is being run through DFU (hash 3c764b0bc7c91cf2dfa1c4bb629a1f8b680ec45d3621216d0e5e28d179428ae9), this will cause launch time delays
+[03Jan2025 20:46:44.469] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_1 is being run through DFU (hash fa1f924aa834900f127450bbca4ddf20807ad5807442e5d27e158f3e2c4a9c2e), this will cause launch time delays
+[03Jan2025 20:46:45.678] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jan2025 20:48:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was shot by Skeleton
+[03Jan2025 20:48:17.629] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[03Jan2025 20:48:18.055] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[03Jan2025 20:48:20.415] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[03Jan2025 20:48:20.477] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[03Jan2025 20:48:27.414] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[03Jan2025 20:48:27.432] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[03Jan2025 20:48:27.437] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[03Jan2025 20:48:27.451] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[03Jan2025 20:48:27.458] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[03Jan2025 20:48:27.470] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[03Jan2025 20:48:27.479] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[03Jan2025 20:48:27.487] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[03Jan2025 20:48:27.499] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[03Jan2025 20:48:27.504] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[03Jan2025 20:48:27.522] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[03Jan2025 20:48:27.537] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[03Jan2025 20:48:27.558] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[03Jan2025 20:48:27.719] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[03Jan2025 20:49:03.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:49:04.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:49:22.565] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.5 and blood value 0 for entity cnc:giant_boar
+[03Jan2025 20:52:09.364] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.14 and blood value 15 for entity cnc:elk
+[03Jan2025 20:52:09.448] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/blue_stall
+[03Jan2025 20:52:09.491] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/pink_stall
+[03Jan2025 20:52:09.546] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/orange_stall
+[03Jan2025 20:52:09.588] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/red_stall
+[03Jan2025 20:52:21.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C4sper lost connection: Disconnected
+[03Jan2025 20:52:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper left the game
+[03Jan2025 20:54:03.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:54:03.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
