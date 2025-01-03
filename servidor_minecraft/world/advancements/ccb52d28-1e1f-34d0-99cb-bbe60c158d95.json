@@ -5,15 +5,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-03 18:38:27 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2025-01-03 18:02:23 +0000"
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-03 18:29:53 +0000"
+    },
+    "done": true
+  },
   "under_the_moon:root": {
     "criteria": {
       "root_0": "2025-01-03 18:02:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-01-03 18:19:48 +0000"
     },
     "done": true
   },
@@ -41,6 +59,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2025-01-03 18:32:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-03 18:01:59 +0000"
@@ -59,6 +83,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-03 18:32:59 +0000"
+    },
+    "done": true
+  },
   "cnc:cnc": {
     "criteria": {
       "cnc_0": "2025-01-03 18:02:23 +0000"
@@ -68,6 +98,24 @@
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2025-01-03 18:02:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-03 18:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-03 18:29:53 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-03 18:29:53 +0000"
     },
     "done": true
   },
@@ -83,6 +131,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-03 18:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-03 18:19:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_cross_recipe": "2025-01-03 18:01:59 +0000"
@@ -95,6 +155,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-03 18:32:44 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/spellbooks/natures_wrath": {
     "criteria": {
       "requirement": "2025-01-03 18:02:23 +0000"
@@ -103,6 +169,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-03 18:33:12 +0000",
       "minecraft:stony_shore": "2025-01-03 18:11:26 +0000",
       "minecraft:forest": "2025-01-03 18:02:24 +0000",
       "minecraft:ocean": "2025-01-03 18:11:07 +0000",
@@ -114,6 +181,24 @@
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
     "criteria": {
       "requirement": "2025-01-03 18:02:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-01-03 18:40:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-03 18:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-03 18:37:00 +0000"
     },
     "done": true
   },
@@ -144,6 +229,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-03 18:05:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-03 18:29:53 +0000"
     },
     "done": true
   },

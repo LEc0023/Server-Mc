@@ -7852,3 +7852,39 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Jan2025 18:13:45.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 18:13:45.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 18:13:55.017] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jan2025 18:18:45.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:18:45.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:19:48.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Baby Skeleton
+[03Jan2025 18:23:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was shot by Skeleton
+[03Jan2025 18:23:45.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:23:45.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:26:19.413] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[03Jan2025 18:28:45.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:28:45.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:29:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Acquire Hardware]
+[03Jan2025 18:30:30.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Sweet Dreams]
+[03Jan2025 18:32:02.980] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[03Jan2025 18:32:03.010] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[03Jan2025 18:32:03.024] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[03Jan2025 18:32:03.033] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[03Jan2025 18:32:03.044] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[03Jan2025 18:32:03.085] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[03Jan2025 18:32:03.101] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[03Jan2025 18:32:20.497] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[03Jan2025 18:32:20.576] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[03Jan2025 18:32:20.589] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[03Jan2025 18:32:20.664] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[03Jan2025 18:32:41.923] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.2 and blood value 0 for entity untamedwilds:rhino
+[03Jan2025 18:32:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Gravedigger]
+[03Jan2025 18:33:45.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:33:45.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:33:57.925] [Worker-Main-14/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-15, -84], pos: MutableBlockPos{x=-226, y=57, z=-1338}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureSeaAnemone@147c1d5e: net.minecraft.world.level.levelgen.feature.configurations.CountConfiguration@31b5345a}
+[03Jan2025 18:38:27.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Suit Up]
+[03Jan2025 18:38:45.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:38:45.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:39:23.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was slain by Shark
+[03Jan2025 18:40:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has reached the goal [Horror of the Depths]
+[03Jan2025 18:43:17.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Randa'/30535, l='ServerLevel[world]', x=-612.52, y=130.00, z=-1069.73] died, message: 'Randa was slain by Zombie Clown'
+[03Jan2025 18:43:17.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Randa'/30535, l='ServerLevel[world]', x=-612.52, y=130.00, z=-1069.73] died: Randa was slain by Zombie Clown
+[03Jan2025 18:43:45.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:43:45.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
