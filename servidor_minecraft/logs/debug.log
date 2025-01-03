@@ -8177,3 +8177,175 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Jan2025 20:36:28.259] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Jan2025 20:36:28.259] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Jan2025 20:36:28.260] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Jan2025 20:39:01.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:39:01.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:42:15.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Vampire
+[03Jan2025 20:42:16.903] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.12.jar%23250!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.12.jar%23250!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.12.jar%23250!/:1.20.1-1.10.12]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03Jan2025 20:42:20.189] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[03Jan2025 20:42:25.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Vampire
+[03Jan2025 20:42:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Vampire
+[03Jan2025 20:42:38.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC lost connection: Disconnected
+[03Jan2025 20:42:38.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC left the game
+[03Jan2025 20:42:48.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Vampire
+[03Jan2025 20:44:01.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:44:01.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:44:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was slain by Vampire
+[03Jan2025 20:44:15.747] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/snowy/houses/hunter_trainer
+[03Jan2025 20:44:15.752] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/entities/hunter_trainer
+[03Jan2025 20:44:15.786] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_occultist
+[03Jan2025 20:44:15.798] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_oceanographer
+[03Jan2025 20:44:15.809] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_horticulturist
+[03Jan2025 20:44:15.887] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_alchemist
+[03Jan2025 20:44:15.961] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/snowy/houses/snowy_temple_1
+[03Jan2025 20:44:16.461] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[03Jan2025 20:44:18.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[03Jan2025 20:44:19.476] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[03Jan2025 20:44:19.482] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[03Jan2025 20:44:19.486] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[03Jan2025 20:44:19.536] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[03Jan2025 20:44:19.625] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
+[03Jan2025 20:44:19.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[03Jan2025 20:44:19.766] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[03Jan2025 20:44:19.777] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[03Jan2025 20:44:20.215] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[03Jan2025 20:44:20.956] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[03Jan2025 20:44:21.646] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/stone_pillars
+[03Jan2025 20:44:21.873] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium1
+[03Jan2025 20:44:21.886] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/firetower
+[03Jan2025 20:44:21.891] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[03Jan2025 20:44:21.898] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[03Jan2025 20:44:21.904] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[03Jan2025 20:44:21.910] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[03Jan2025 20:44:21.914] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/barrels
+[03Jan2025 20:44:22.192] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[03Jan2025 20:44:23.204] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-331, y=33, z=-872}
+[03Jan2025 20:44:23.205] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-333, y=33, z=-872}
+[03Jan2025 20:44:23.206] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-331, y=33, z=-876}
+[03Jan2025 20:44:23.206] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-333, y=33, z=-876}
+[03Jan2025 20:44:24.704] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[03Jan2025 20:44:26.002] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[03Jan2025 20:44:26.534] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin5
+[03Jan2025 20:44:26.968] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=27, z=-812}
+[03Jan2025 20:44:26.969] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=27, z=-812}
+[03Jan2025 20:44:27.265] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=27, z=-812}
+[03Jan2025 20:44:27.266] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=30, z=-814}
+[03Jan2025 20:44:27.267] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-815}
+[03Jan2025 20:44:27.267] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=27, z=-812}
+[03Jan2025 20:44:27.337] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:horse_pen
+[03Jan2025 20:44:27.394] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[03Jan2025 20:44:27.545] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:shed
+[03Jan2025 20:44:27.648] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-813}
+[03Jan2025 20:44:27.649] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=27, z=-818}
+[03Jan2025 20:44:27.650] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=30, z=-817}
+[03Jan2025 20:44:28.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper has made the advancement [Minecraft Comes Alive]
+[03Jan2025 20:44:29.321] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-740}
+[03Jan2025 20:44:29.322] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=31, z=-740}
+[03Jan2025 20:44:29.322] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=35, z=-750}
+[03Jan2025 20:44:29.323] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=35, z=-743}
+[03Jan2025 20:44:29.324] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=31, z=-740}
+[03Jan2025 20:44:29.325] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=31, z=-740}
+[03Jan2025 20:44:29.325] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=35, z=-750}
+[03Jan2025 20:44:29.326] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=35, z=-751}
+[03Jan2025 20:44:29.327] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=35, z=-742}
+[03Jan2025 20:44:30.107] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=27, z=-760}
+[03Jan2025 20:44:30.108] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=35, z=-757}
+[03Jan2025 20:44:30.108] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=35, z=-756}
+[03Jan2025 20:44:30.110] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=36, z=-758}
+[03Jan2025 20:44:30.111] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=34, z=-758}
+[03Jan2025 20:44:30.111] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=34, z=-756}
+[03Jan2025 20:44:30.112] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=35, z=-756}
+[03Jan2025 20:44:30.112] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=35, z=-755}
+[03Jan2025 20:44:30.113] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=36, z=-757}
+[03Jan2025 20:44:30.113] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-290, y=36, z=-755}
+[03Jan2025 20:44:30.114] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-759}
+[03Jan2025 20:44:30.114] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-755}
+[03Jan2025 20:44:30.115] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=34, z=-759}
+[03Jan2025 20:44:30.115] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=35, z=-758}
+[03Jan2025 20:44:30.116] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=35, z=-756}
+[03Jan2025 20:44:30.924] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-369, y=30, z=-814}
+[03Jan2025 20:44:30.926] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-815}
+[03Jan2025 20:44:31.261] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[03Jan2025 20:44:31.316] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=31, z=-816}
+[03Jan2025 20:44:31.316] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-236, y=27, z=-810}
+[03Jan2025 20:44:31.786] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
+[03Jan2025 20:44:32.779] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=31, z=-740}
+[03Jan2025 20:44:32.780] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=35, z=-742}
+[03Jan2025 20:44:32.835] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=27, z=-757}
+[03Jan2025 20:44:32.836] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=35, z=-758}
+[03Jan2025 20:44:34.368] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
+[03Jan2025 20:44:34.369] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
+[03Jan2025 20:44:34.369] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
+[03Jan2025 20:44:34.369] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
+[03Jan2025 20:44:34.369] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-819}
+[03Jan2025 20:44:34.622] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
+[03Jan2025 20:44:34.623] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
+[03Jan2025 20:44:34.740] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-196, y=27, z=-819}
+[03Jan2025 20:44:34.750] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[03Jan2025 20:44:35.136] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-813}
+[03Jan2025 20:44:35.137] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=27, z=-818}
+[03Jan2025 20:44:35.137] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=30, z=-817}
+[03Jan2025 20:44:35.371] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=30, z=-819}
+[03Jan2025 20:44:35.372] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=26, z=-813}
+[03Jan2025 20:44:35.372] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-813}
+[03Jan2025 20:44:35.373] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-813}
+[03Jan2025 20:44:35.463] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-224, y=35, z=-781}
+[03Jan2025 20:44:35.738] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=35, z=-773}
+[03Jan2025 20:44:36.939] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-196, y=27, z=-819}
+[03Jan2025 20:44:36.940] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[03Jan2025 20:44:37.324] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[03Jan2025 20:44:38.535] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_02
+[03Jan2025 20:44:40.548] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[03Jan2025 20:44:41.565] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[03Jan2025 20:44:42.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.65 and blood value 4 for entity cnc:wolverine
+[03Jan2025 20:44:45.889] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[03Jan2025 20:44:45.979] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[03Jan2025 20:44:50.713] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[03Jan2025 20:44:50.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sharie'/4381, l='ServerLevel[world]', x=-1911.70, y=71.00, z=940.30] died, message: 'Sharie was blown up by Creeper'
+[03Jan2025 20:44:50.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sharie'/4381, l='ServerLevel[world]', x=-1911.70, y=71.00, z=940.30] died: Sharie was blown up by Creeper
+[03Jan2025 20:44:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was blown up by Creeper
+[03Jan2025 20:44:51.862] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_05
+[03Jan2025 20:44:58.821] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[03Jan2025 20:44:58.821] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[03Jan2025 20:44:58.821] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[03Jan2025 20:44:58.822] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[03Jan2025 20:45:00.702] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[03Jan2025 20:45:00.764] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity cnc:coyote
+[03Jan2025 20:45:03.763] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.27 and blood value 0 for entity untamedwilds:snake
+[03Jan2025 20:45:05.469] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[03Jan2025 20:45:05.469] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[03Jan2025 20:45:07.653] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[03Jan2025 20:45:08.984] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[03Jan2025 20:45:09.002] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[03Jan2025 20:45:19.697] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_swamp_house
+[03Jan2025 20:45:21.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[03Jan2025 20:45:22.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lanette'/7150, l='ServerLevel[world]', x=-1936.80, y=76.00, z=901.15] died, message: 'Lanette was slain by Wendigo'
+[03Jan2025 20:45:22.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lanette'/7150, l='ServerLevel[world]', x=-1936.80, y=76.00, z=901.15] died: Lanette was slain by Wendigo
+[03Jan2025 20:45:26.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eduardo'/7160, l='ServerLevel[world]', x=-1943.72, y=78.75, z=900.37] died, message: 'Eduardo was slain by Wendigo'
+[03Jan2025 20:45:26.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eduardo'/7160, l='ServerLevel[world]', x=-1943.72, y=78.75, z=900.37] died: Eduardo was slain by Wendigo
+[03Jan2025 20:45:30.819] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[03Jan2025 20:45:30.899] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[03Jan2025 20:45:31.015] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[03Jan2025 20:45:44.920] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[03Jan2025 20:46:24.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Antione'/4380, l='ServerLevel[world]', x=-1890.37, y=71.00, z=944.50] died, message: 'Antione was slain by Swarmer'
+[03Jan2025 20:46:24.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Antione'/4380, l='ServerLevel[world]', x=-1890.37, y=71.00, z=944.50] died: Antione was slain by Swarmer
+[03Jan2025 20:46:25.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Harold'/7240, l='ServerLevel[world]', x=-1882.18, y=74.00, z=899.94] died, message: 'Harold was slain by Wendigo'
+[03Jan2025 20:46:25.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Harold'/7240, l='ServerLevel[world]', x=-1882.18, y=74.00, z=899.94] died: Harold was slain by Wendigo

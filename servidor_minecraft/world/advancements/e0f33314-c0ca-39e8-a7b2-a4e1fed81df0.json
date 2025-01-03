@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-03 20:42:15 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_upright_recipe": "2025-01-03 20:33:02 +0000"
