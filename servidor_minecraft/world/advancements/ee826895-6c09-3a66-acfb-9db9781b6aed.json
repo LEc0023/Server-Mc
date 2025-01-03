@@ -59,6 +59,7 @@
       "minecraft:lush_caves": "2025-01-03 21:44:28 +0000",
       "minecraft:ocean": "2025-01-03 21:40:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 21:14:42 +0000",
+      "minecraft:meadow": "2025-01-03 23:24:45 +0000",
       "minecraft:plains": "2025-01-03 22:22:51 +0000"
     },
     "done": false
@@ -175,6 +176,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-03 23:26:12 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-01-03 21:34:00 +0000"
@@ -190,6 +197,12 @@
   "cnc:ringtail_tameadvancement": {
     "criteria": {
       "ringtail_tameadvancement_0": "2025-01-03 23:01:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-03 23:37:10 +0000"
     },
     "done": true
   },
@@ -210,6 +223,13 @@
       "cave_tablet": "2025-01-03 22:06:21 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-03 23:09:38 +0000",
+      "cookie": "2025-01-03 23:21:46 +0000"
+    },
+    "done": false
   },
   "gnumus:fatty_demon": {
     "criteria": {
@@ -235,6 +255,12 @@
     },
     "done": true
   },
+  "cnc:ringtail_mineadvancement": {
+    "criteria": {
+      "ringtail_mineadvancement_0": "2025-01-03 23:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-03 21:44:19 +0000"
@@ -249,8 +275,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-01-03 23:07:13 +0000",
+      "tomato": "2025-01-03 23:06:58 +0000",
       "sugar_cane": "2025-01-03 21:45:29 +0000",
-      "potato": "2025-01-03 21:43:20 +0000"
+      "potato": "2025-01-03 21:43:20 +0000",
+      "carrot": "2025-01-03 23:07:01 +0000"
     },
     "done": false
   },
