@@ -7818,3 +7818,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Jan2025 19:06:09.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 19:06:26.915] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$884f4830c83e484eb19fbdfd7e9b8097 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
 [03Jan2025 19:06:29.999] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[03Jan2025 19:11:09.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:11:09.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 19:16:09.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:16:09.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
