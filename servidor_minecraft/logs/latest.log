@@ -799,3 +799,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [03Jan2025 19:02:31.966] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Jan2025 19:02:31.967] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Jan2025 19:02:32.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC fell from a high place
+[03Jan2025 19:28:20.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LBC moved wrongly!
