@@ -1289,3 +1289,10 @@ java.lang.Throwable: null
 [03Jan2025 20:48:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper was shot by Skeleton
 [03Jan2025 20:52:21.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C4sper lost connection: Disconnected
 [03Jan2025 20:52:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C4sper left the game
+[03Jan2025 20:57:09.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALX[/100.83.101.97:49774] logged in with entity id 14779 at (-115.5, 71.0, -757.5)
+[03Jan2025 20:57:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX joined the game
+[03Jan2025 20:57:09.308] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Jan2025 20:57:09.312] [Server thread/INFO] [Jade/]: Syncing config to ALX (ee826895-6c09-3a66-acfb-9db9781b6aed)
+[03Jan2025 20:57:09.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [Under The Moon]
+[03Jan2025 20:57:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [Critters n' Crawlers]
+[03Jan2025 21:03:48.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Yelena
