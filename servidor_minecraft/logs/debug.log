@@ -7888,3 +7888,10 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Jan2025 18:43:17.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Randa'/30535, l='ServerLevel[world]', x=-612.52, y=130.00, z=-1069.73] died: Randa was slain by Zombie Clown
 [03Jan2025 18:43:45.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 18:43:45.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:47:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Elk-a-holic]
+[03Jan2025 18:48:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was sniped by Archer
+[03Jan2025 18:48:45.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:48:45.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:51:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Bypassing the Expiration Date]
+[03Jan2025 18:53:45.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:53:45.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

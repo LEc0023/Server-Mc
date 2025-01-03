@@ -1168,3 +1168,6 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [03Jan2025 18:40:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has reached the goal [Horror of the Depths]
 [03Jan2025 18:43:17.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Randa'/30535, l='ServerLevel[world]', x=-612.52, y=130.00, z=-1069.73] died, message: 'Randa was slain by Zombie Clown'
 [03Jan2025 18:43:17.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Randa'/30535, l='ServerLevel[world]', x=-612.52, y=130.00, z=-1069.73] died: Randa was slain by Zombie Clown
+[03Jan2025 18:47:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Elk-a-holic]
+[03Jan2025 18:48:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC was sniped by Archer
+[03Jan2025 18:51:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LBC has made the advancement [Bypassing the Expiration Date]

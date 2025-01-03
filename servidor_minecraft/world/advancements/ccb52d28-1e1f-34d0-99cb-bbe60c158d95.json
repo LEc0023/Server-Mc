@@ -196,6 +196,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_cod": "2025-01-03 18:51:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-03 18:37:00 +0000"
@@ -223,6 +229,18 @@
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
     "criteria": {
       "requirement": "2025-01-03 18:02:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-01-03 18:51:42 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-01-03 18:47:57 +0000"
     },
     "done": true
   },
