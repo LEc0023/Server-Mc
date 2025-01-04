@@ -1,7 +1,1155 @@
-[04Jan2025 00:00:48.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stacey'/537, l='ServerLevel[world]', x=-1100.78, y=132.00, z=-1051.45] died, message: 'Stacey hit the ground too hard'
-[04Jan2025 00:00:48.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stacey'/537, l='ServerLevel[world]', x=-1100.78, y=132.00, z=-1051.45] died: Stacey fell from a high place
-[04Jan2025 00:01:37.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Ice Bucket Challenge]
-[04Jan2025 00:01:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Hunt and Gather]
-[04Jan2025 00:02:29.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PupsetEntity['Pupset'/1621, l='ServerLevel[world]', x=-1599.50, y=95.00, z=-1295.50]
-[04Jan2025 00:04:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Is it Alive!?]
-[04Jan2025 00:04:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Mooncharm]
+[04Jan2025 00:28:58.906] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[04Jan2025 00:28:58.912] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[04Jan2025 00:28:59.731] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Jan2025 00:28:59.788] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Mc/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Jan2025 00:29:00.225] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Jan2025 00:29:00.228] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Jan2025 00:29:00.232] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Jan2025 00:29:00.235] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Jan2025 00:29:00.543] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 19 dependencies adding them to mods collection
+[04Jan2025 00:29:03.095] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Jan2025 00:29:03.222] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[04Jan2025 00:29:03.393] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.MixinConnector]
+[04Jan2025 00:29:03.395] [main/INFO] [net.fabricmc.loader.impl.bootstrap.FabricLoaderBootstrap/]: Propagating FML mod list to Fabric Loader
+[04Jan2025 00:29:03.409] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[04Jan2025 00:29:03.417] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.501] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 0 override(s) found
+[04Jan2025 00:29:03.502] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[04Jan2025 00:29:03.520] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[04Jan2025 00:29:03.531] [main/WARN] [mixin/]: Reference map 'untamedwilds.refmap.json' for mixins.untamedwilds.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.609] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.622] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 132 options available, 0 override(s) found
+[04Jan2025 00:29:03.636] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.656] [main/WARN] [mixin/]: Reference map 'Necronomicon-1.19.4-forge-refmap.json' for necronomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.724] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[04Jan2025 00:29:03.786] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.788] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:03.850] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2025 00:29:04.743] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[04Jan2025 00:29:05.428] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[04Jan2025 00:29:06.383] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04Jan2025 00:29:07.074] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.33 s after launch)
+[04Jan2025 00:29:07.263] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[04Jan2025 00:29:07.265] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[04Jan2025 00:29:07.456] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[04Jan2025 00:29:07.456] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[04Jan2025 00:29:08.981] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1903 milliseconds
+[04Jan2025 00:29:11.047] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinMobEffectInstance. Skipping method.
+[04Jan2025 00:29:11.862] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[04Jan2025 00:29:12.004] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[04Jan2025 00:29:12.506] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[04Jan2025 00:29:12.535] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[04Jan2025 00:29:12.685] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[04Jan2025 00:29:12.784] [modloading-worker-0/INFO] [villagersplus/]: Registered JSON trade offer adapter.
+[04Jan2025 00:29:12.798] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[04Jan2025 00:29:13.092] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Jan2025 00:29:13.097] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Jan2025 00:29:13.121] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[04Jan2025 00:29:13.122] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[embeddium-0.3.24+mc1.20.1.jar%23202!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:103) ~[embeddium-0.3.24+mc1.20.1.jar%23202!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.<init>(SodiumClientMod.java:43) ~[embeddium-0.3.24+mc1.20.1.jar%23202!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23263!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23262!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[04Jan2025 00:29:13.897] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[04Jan2025 00:29:14.142] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.83.
+[04Jan2025 00:29:14.581] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[04Jan2025 00:29:14.768] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Jan2025 00:29:14.894] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[04Jan2025 00:29:14.894] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[04Jan2025 00:29:14.901] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[04Jan2025 00:29:14.902] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[04Jan2025 00:29:14.902] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[04Jan2025 00:29:14.918] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[04Jan2025 00:29:14.938] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[04Jan2025 00:29:14.938] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[04Jan2025 00:29:14.938] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[04Jan2025 00:29:14.939] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[04Jan2025 00:29:14.951] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[04Jan2025 00:29:14.953] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[04Jan2025 00:29:14.954] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[04Jan2025 00:29:14.964] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[04Jan2025 00:29:14.981] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[04Jan2025 00:29:14.981] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[04Jan2025 00:29:14.991] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[04Jan2025 00:29:14.993] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[04Jan2025 00:29:14.994] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[04Jan2025 00:29:14.994] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[04Jan2025 00:29:14.996] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[04Jan2025 00:29:14.996] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[04Jan2025 00:29:14.996] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[04Jan2025 00:29:14.997] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[04Jan2025 00:29:14.997] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[04Jan2025 00:29:15.004] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[04Jan2025 00:29:15.005] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[04Jan2025 00:29:15.005] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[04Jan2025 00:29:15.007] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[04Jan2025 00:29:15.008] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[04Jan2025 00:29:15.009] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[04Jan2025 00:29:15.009] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[04Jan2025 00:29:15.046] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[04Jan2025 00:29:15.055] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.056] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[04Jan2025 00:29:15.057] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.057] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[04Jan2025 00:29:15.058] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[04Jan2025 00:29:15.059] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[04Jan2025 00:29:15.065] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[04Jan2025 00:29:15.065] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[04Jan2025 00:29:15.065] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[04Jan2025 00:29:15.066] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[04Jan2025 00:29:15.068] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[04Jan2025 00:29:15.068] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[04Jan2025 00:29:15.069] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[04Jan2025 00:29:15.069] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[04Jan2025 00:29:15.070] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[04Jan2025 00:29:15.072] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[04Jan2025 00:29:15.075] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[04Jan2025 00:29:15.075] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[04Jan2025 00:29:15.076] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[04Jan2025 00:29:15.077] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.078] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[04Jan2025 00:29:15.080] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[04Jan2025 00:29:15.083] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[04Jan2025 00:29:15.086] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.093] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[04Jan2025 00:29:15.100] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[04Jan2025 00:29:15.110] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[04Jan2025 00:29:15.111] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[04Jan2025 00:29:15.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[04Jan2025 00:29:15.115] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.116] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[04Jan2025 00:29:15.120] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[04Jan2025 00:29:15.157] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[04Jan2025 00:29:15.157] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[04Jan2025 00:29:15.158] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[04Jan2025 00:29:15.159] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[04Jan2025 00:29:15.160] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[04Jan2025 00:29:15.163] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[04Jan2025 00:29:15.168] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[04Jan2025 00:29:15.169] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[04Jan2025 00:29:15.170] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[04Jan2025 00:29:15.170] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[04Jan2025 00:29:15.171] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[04Jan2025 00:29:15.171] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[04Jan2025 00:29:15.172] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[04Jan2025 00:29:15.172] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[04Jan2025 00:29:15.175] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[04Jan2025 00:29:15.175] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[04Jan2025 00:29:15.237] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[04Jan2025 00:29:15.243] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[04Jan2025 00:29:15.244] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[04Jan2025 00:29:15.245] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[04Jan2025 00:29:15.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[04Jan2025 00:29:15.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[04Jan2025 00:29:15.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[04Jan2025 00:29:15.255] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.255] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[04Jan2025 00:29:15.255] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[04Jan2025 00:29:15.256] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[04Jan2025 00:29:15.269] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.270] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[04Jan2025 00:29:15.278] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[04Jan2025 00:29:15.279] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[04Jan2025 00:29:15.279] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[04Jan2025 00:29:15.281] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[04Jan2025 00:29:15.285] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[04Jan2025 00:29:15.285] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[04Jan2025 00:29:15.285] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[04Jan2025 00:29:15.286] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[04Jan2025 00:29:15.286] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.287] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[04Jan2025 00:29:15.287] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[04Jan2025 00:29:15.287] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[04Jan2025 00:29:15.287] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[04Jan2025 00:29:15.291] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[04Jan2025 00:29:15.293] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[04Jan2025 00:29:15.297] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[04Jan2025 00:29:15.297] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[04Jan2025 00:29:15.298] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[04Jan2025 00:29:15.298] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[04Jan2025 00:29:15.299] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.300] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[04Jan2025 00:29:15.301] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[04Jan2025 00:29:15.306] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[04Jan2025 00:29:15.307] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[04Jan2025 00:29:15.309] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[04Jan2025 00:29:15.316] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[04Jan2025 00:29:15.318] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[04Jan2025 00:29:15.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[04Jan2025 00:29:15.327] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[04Jan2025 00:29:15.329] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[04Jan2025 00:29:15.331] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[04Jan2025 00:29:15.331] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[04Jan2025 00:29:15.332] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[04Jan2025 00:29:15.333] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[04Jan2025 00:29:15.334] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[04Jan2025 00:29:15.335] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[04Jan2025 00:29:15.336] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[04Jan2025 00:29:15.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[04Jan2025 00:29:15.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[04Jan2025 00:29:15.354] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[04Jan2025 00:29:15.374] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[04Jan2025 00:29:15.375] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.375] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[04Jan2025 00:29:15.375] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[04Jan2025 00:29:15.376] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[04Jan2025 00:29:15.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[04Jan2025 00:29:15.391] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[04Jan2025 00:29:15.397] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[04Jan2025 00:29:15.401] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[04Jan2025 00:29:15.402] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[04Jan2025 00:29:15.410] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[04Jan2025 00:29:15.414] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[04Jan2025 00:29:15.414] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[04Jan2025 00:29:15.415] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[04Jan2025 00:29:15.447] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[04Jan2025 00:29:15.453] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.457] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[04Jan2025 00:29:15.458] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.458] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[04Jan2025 00:29:15.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[04Jan2025 00:29:15.461] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[04Jan2025 00:29:15.462] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[04Jan2025 00:29:15.464] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[04Jan2025 00:29:15.467] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.468] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[04Jan2025 00:29:15.472] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[04Jan2025 00:29:15.473] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[04Jan2025 00:29:15.474] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[04Jan2025 00:29:15.475] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[04Jan2025 00:29:15.476] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[04Jan2025 00:29:15.477] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[04Jan2025 00:29:15.480] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[04Jan2025 00:29:15.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[04Jan2025 00:29:15.531] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[04Jan2025 00:29:15.532] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[04Jan2025 00:29:15.540] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[04Jan2025 00:29:15.540] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[04Jan2025 00:29:15.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[04Jan2025 00:29:15.571] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[04Jan2025 00:29:15.573] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[04Jan2025 00:29:15.574] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[04Jan2025 00:29:15.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[04Jan2025 00:29:15.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[04Jan2025 00:29:15.577] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[04Jan2025 00:29:15.578] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[04Jan2025 00:29:15.578] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[04Jan2025 00:29:15.579] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[04Jan2025 00:29:15.643] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Server-Mc/servidor_minecraft/config/quark-common.toml is not correct. Correcting
+[04Jan2025 00:29:20.845] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[04Jan2025 00:29:21.455] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[04Jan2025 00:29:21.455] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04Jan2025 00:29:22.579] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[04Jan2025 00:29:22.614] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[04Jan2025 00:29:22.653] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.654] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.654] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.654] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.654] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.654] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.655] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.655] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:29:22.657] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.657] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.657] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.657] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.658] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.658] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.658] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.658] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.663] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.663] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.664] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.664] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:29:22.664] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.669] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.670] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.671] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.672] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.677] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.677] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.678] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.679] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.679] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:29:22.680] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:29:22.969] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[04Jan2025 00:29:23.165] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Registering Packets!
+[04Jan2025 00:29:23.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[04Jan2025 00:29:23.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[04Jan2025 00:29:23.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_cherry_villages] Starting version check at https://api.modrinth.com/updates/Xtpwas3W/forge_updates.json
+[04Jan2025 00:29:23.363] [main/INFO] [journeymap/]: Initializing Packet Registries
+[04Jan2025 00:29:23.372] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[04Jan2025 00:29:23.385] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[04Jan2025 00:29:23.391] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[04Jan2025 00:29:23.391] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[04Jan2025 00:29:23.393] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[04Jan2025 00:29:23.478] [main/INFO] [Moonlight/]: Initialized color sets in 49ms
+[04Jan2025 00:29:23.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_cherry_villages] Found status: UP_TO_DATE Current: 1.0.3 Target: null
+[04Jan2025 00:29:23.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Jan2025 00:29:23.564] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 0, 0, 0, 14, 5, 1] ms
+[04Jan2025 00:29:23.600] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[04Jan2025 00:29:23.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[04Jan2025 00:29:23.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_hero_proof] Starting version check at https://api.modrinth.com/updates/GDmztpJg/forge_updates.json
+[04Jan2025 00:29:23.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_hero_proof] Found status: OUTDATED Current: 5.2.1 Target: 5.2.1+mod
+[04Jan2025 00:29:23.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[04Jan2025 00:29:24.048] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at io.github.mortuusars.exposure.integration.jade.ExposureJadePlugin
+[04Jan2025 00:29:24.054] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[04Jan2025 00:29:24.054] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04Jan2025 00:29:24.061] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04Jan2025 00:29:24.064] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04Jan2025 00:29:24.065] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.alekiponi.alekiships.compat.waila.JadeIntegration
+[04Jan2025 00:29:24.066] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[04Jan2025 00:29:24.099] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[04Jan2025 00:29:24.734] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Jan2025 00:29:24.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.20.1-1.0.9 Target: null
+[04Jan2025 00:29:24.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[04Jan2025 00:29:24.877] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.41 Target: null
+[04Jan2025 00:29:24.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[04Jan2025 00:29:24.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
+[04Jan2025 00:29:24.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Starting version check at https://raw.githubusercontent.com/endcollector/critters-n-crawlers-updater/main/update.json
+[04Jan2025 00:29:24.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cnc] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[04Jan2025 00:29:24.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[04Jan2025 00:29:25.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.11 Target: null
+[04Jan2025 00:29:25.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[04Jan2025 00:29:25.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[04Jan2025 00:29:25.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[04Jan2025 00:29:25.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.12 Target: null
+[04Jan2025 00:29:25.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[04Jan2025 00:29:25.213] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Mc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23261!/assets/.mcassetsroot' uses unexpected schema
+[04Jan2025 00:29:25.214] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Mc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23261!/data/.mcassetsroot' uses unexpected schema
+[04Jan2025 00:29:25.305] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[04Jan2025 00:29:25.305] [main/ERROR] [Cristel Lib/]: T&T Waystone Patch Pack condition is false, skipping
+[04Jan2025 00:29:25.448] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 85 ms
+[04Jan2025 00:29:25.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[04Jan2025 00:29:26.692] [main/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[04Jan2025 00:29:26.852] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[04Jan2025 00:29:28.627] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from supplementaries-1.20-3.1.11.jar)
+[04Jan2025 00:29:29.910] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:29.912] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:29.923] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:29.928] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:29.928] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:29.934] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:29.938] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:29.944] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:29.958] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:29.959] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:29.961] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:29.968] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:29.969] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:29.974] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:29.977] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:29.980] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:29.984] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:29.985] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:29.989] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:29.989] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:29.990] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:29.995] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[04Jan2025 00:29:29.997] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[04Jan2025 00:29:30.007] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.009] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.009] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.015] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.018] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.019] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.020] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.020] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.026] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.027] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.027] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.034] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.041] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.041] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.042] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.042] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.044] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.045] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.045] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.046] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.047] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.050] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.054] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.054] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.059] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.059] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.060] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.062] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.062] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.062] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.063] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[04Jan2025 00:29:30.063] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.064] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.065] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.065] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.075] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.076] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.077] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.080] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.080] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.080] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.081] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.083] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.085] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.086] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.086] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.086] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.088] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.089] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.089] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.089] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.090] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.090] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.090] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.091] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.091] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[04Jan2025 00:29:30.096] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.097] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.098] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.101] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.102] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.102] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.104] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.104] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.105] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.107] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.108] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.110] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.111] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.111] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.111] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.113] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.114] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.115] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.115] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.118] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.118] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.122] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.124] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.127] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.127] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.129] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.130] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[04Jan2025 00:29:30.131] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.132] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.132] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.135] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.136] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.136] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.139] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.140] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.141] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.142] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.146] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.147] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.148] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.152] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.153] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.154] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.155] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.156] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.156] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.157] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.157] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.159] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.161] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.162] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.162] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.163] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.164] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.165] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.166] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.168] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[04Jan2025 00:29:30.168] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[04Jan2025 00:29:30.169] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.172] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.174] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[04Jan2025 00:29:30.176] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.178] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.179] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.179] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.179] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[04Jan2025 00:29:30.182] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[04Jan2025 00:29:30.183] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[04Jan2025 00:29:30.184] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.187] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[04Jan2025 00:29:30.189] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 17 recipes
+[04Jan2025 00:29:30.318] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 2289 recipe advancements
+[04Jan2025 00:29:30.327] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 662 advancements
+[04Jan2025 00:29:30.339] [main/INFO] [villagersplus/]: Deserializing default trades of profession: villagersplus:alchemist
+[04Jan2025 00:29:30.342] [main/INFO] [villagersplus/]: Deserializing default trades of profession: villagersplus:horticulturist
+[04Jan2025 00:29:30.343] [main/INFO] [villagersplus/]: Deserializing default trades of profession: villagersplus:occultist
+[04Jan2025 00:29:30.343] [main/INFO] [villagersplus/]: Deserializing default trades of profession: villagersplus:oceanographer
+[04Jan2025 00:29:30.356] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: spawn_tables
+[04Jan2025 00:29:30.357] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for spawn_tables loaded 8 jsons
+[04Jan2025 00:29:30.357] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: entities
+[04Jan2025 00:29:30.365] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for entities loaded 37 jsons
+[04Jan2025 00:29:30.365] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
+[04Jan2025 00:29:30.366] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[04Jan2025 00:29:30.379] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[04Jan2025 00:29:30.386] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[04Jan2025 00:29:30.388] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[04Jan2025 00:29:30.389] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[04Jan2025 00:29:30.389] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[04Jan2025 00:29:30.389] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[04Jan2025 00:29:30.389] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[04Jan2025 00:29:30.390] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[04Jan2025 00:29:30.390] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[04Jan2025 00:29:30.390] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[04Jan2025 00:29:30.390] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[04Jan2025 00:29:30.390] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[04Jan2025 00:29:30.456] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 80 skill nodes
+[04Jan2025 00:29:30.460] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[04Jan2025 00:29:30.468] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[04Jan2025 00:29:30.488] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[04Jan2025 00:29:30.579] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[04Jan2025 00:29:30.622] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[04Jan2025 00:29:31.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Jan2025 00:29:31.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Jan2025 00:29:31.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Jan2025 00:29:31.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Jan2025 00:29:31.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Jan2025 00:29:31.452] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Jan2025 00:29:31.521] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Jan2025 00:29:31.521] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Jan2025 00:29:31.521] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Jan2025 00:29:31.521] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Jan2025 00:29:31.535] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Jan2025 00:29:31.762] [Server thread/INFO] [Framework/]: Loading server configs...
+[04Jan2025 00:29:31.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Jan2025 00:29:32.188] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[04Jan2025 00:29:32.204] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[04Jan2025 00:29:32.238] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / graveyard:past] with concurrent set.
+[04Jan2025 00:29:32.253] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[04Jan2025 00:29:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Jan2025 00:29:32.259] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[04Jan2025 00:29:33.471] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jan2025 00:29:33.472] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jan2025 00:29:33.472] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jan2025 00:29:33.880] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.898] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.914] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.915] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.925] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.926] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.927] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.928] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.929] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.930] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.932] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.933] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.937] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.938] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.939] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.944] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.945] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.953] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.954] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.955] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.957] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.958] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.958] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.959] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.960] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.962] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.962] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.966] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.967] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.969] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.978] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.980] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.981] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.982] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.983] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.984] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.986] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.988] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.989] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:33.998] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.006] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.008] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.009] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.010] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.011] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.015] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.016] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.017] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.018] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.019] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.020] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.020] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.021] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.022] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.023] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.025] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.026] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.026] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.027] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.028] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.029] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.040] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.050] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.051] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.052] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.054] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.054] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.055] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.056] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.057] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.060] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.061] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.062] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.064] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.065] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.069] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.072] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.072] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.073] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.074] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.074] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.076] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.077] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.077] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.078] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.088] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.093] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.094] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.095] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.101] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.102] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.103] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.108] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.109] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.109] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.110] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.111] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.112] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.112] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.113] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.113] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.114] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.115] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.119] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.120] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.121] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.123] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.127] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.128] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.129] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.130] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.135] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.135] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.136] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.140] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.141] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.142] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.143] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.143] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.144] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.145] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.145] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.146] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.147] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.155] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.156] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.157] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.158] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.159] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.159] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.160] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.160] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.161] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.162] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.163] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.164] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.165] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.165] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.166] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.167] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.168] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.168] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.169] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.171] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.171] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.175] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.176] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.177] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.177] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.178] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.179] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.180] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.180] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.181] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.182] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.184] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.185] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.186] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.189] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.192] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.192] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.193] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.194] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.194] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.195] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.196] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.197] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.197] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.198] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.199] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.200] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
+[04Jan2025 00:29:34.201] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1945 ms
+[04Jan2025 00:29:34.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.670s)! For help, type "help"
+[04Jan2025 00:29:34.251] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Jan2025 00:29:34.252] [Server thread/INFO] [net.stardustlabs.structory.Structory/]: Thanks for choosing Structory!
+[04Jan2025 00:29:52.040] [Server thread/WARN] [ModernFix/]: Dedicated server took 55.3 seconds to load
+[04Jan2025 00:30:50.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chamuscado[/100.126.174.50:60445] logged in with entity id 259 at (-1874.699999988079, 161.0, -1347.6160406950078)
+[04Jan2025 00:30:50.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado joined the game
+[04Jan2025 00:30:50.454] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[04Jan2025 00:30:50.458] [Server thread/INFO] [Jade/]: Syncing config to Chamuscado (865d8a99-5934-35fb-9ad5-73d92a6d8dd4)
+[04Jan2025 00:31:07.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17344ms or 346 ticks behind
+[04Jan2025 00:31:11.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALX[/100.83.101.97:52909] logged in with entity id 465 at (-216.8129152651103, 120.0, -1129.2680708080127)
+[04Jan2025 00:31:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX joined the game
+[04Jan2025 00:31:11.040] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[04Jan2025 00:31:11.042] [Server thread/INFO] [Jade/]: Syncing config to ALX (ee826895-6c09-3a66-acfb-9db9781b6aed)
+[04Jan2025 00:31:19.141] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.141] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.142] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.142] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.142] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.143] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.143] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.143] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:31:19.143] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.143] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.144] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.144] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.144] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.144] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.145] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.146] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:31:19.146] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.146] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.146] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:31:19.146] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:31:19.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[04Jan2025 00:31:19.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.148] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.150] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.150] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.151] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.152] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.153] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.153] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:31:19.154] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Jan2025 00:35:21.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Best Friends Forever]
+[04Jan2025 00:37:39.977] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-147, -83], pos: MutableBlockPos{x=-2347, y=166, z=-1322}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@9e3bee5: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4ed2586}
+[04Jan2025 00:46:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was blown up by Creeper
+[04Jan2025 00:47:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Zombie
+[04Jan2025 00:47:27.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was shot by Missionary
+[04Jan2025 00:48:04.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Baby Skeleton
+[04Jan2025 00:48:23.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Zombie Bruiser
+[04Jan2025 00:48:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was shot by Missionary
+[04Jan2025 00:49:32.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was shot by Missionary
+[04Jan2025 00:50:06.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Baby Skeleton
+[04Jan2025 00:51:15.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.2725400092679138
+[04Jan2025 00:51:15.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.5311067859884133
+[04Jan2025 00:51:15.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.781826047424147
+[04Jan2025 00:51:22.583] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[04Jan2025 00:51:22.585] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[04Jan2025 00:51:28.088] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[04Jan2025 00:51:28.089] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[04Jan2025 00:51:31.617] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=271, y=77, z=271}
+[04Jan2025 00:51:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was shot by Missionary
+[04Jan2025 00:51:34.516] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[04Jan2025 00:51:34.516] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[04Jan2025 00:51:34.516] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[04Jan2025 00:51:35.689] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[04Jan2025 00:51:38.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[04Jan2025 00:51:38.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[04Jan2025 00:51:39.514] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[04Jan2025 00:51:41.864] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=25, z=-355}
+[04Jan2025 00:51:41.865] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=25, z=-357}
+[04Jan2025 00:51:41.865] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-248, y=25, z=-356}
+[04Jan2025 00:51:41.866] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-359}
+[04Jan2025 00:51:41.867] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=26, z=-359}
+[04Jan2025 00:51:41.867] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=26, z=-359}
+[04Jan2025 00:51:41.867] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=26, z=-363}
+[04Jan2025 00:51:41.867] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=26, z=-364}
+[04Jan2025 00:51:41.868] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=26, z=-360}
+[04Jan2025 00:51:41.868] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=26, z=-360}
+[04Jan2025 00:51:41.868] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-242, y=30, z=-365}
+[04Jan2025 00:51:41.868] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=30, z=-363}
+[04Jan2025 00:51:42.091] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-271, y=25, z=-319}
+[04Jan2025 00:51:45.778] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=25, z=-317}
+[04Jan2025 00:51:45.790] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-268, y=25, z=-308}
+[04Jan2025 00:51:45.790] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-307}
+[04Jan2025 00:51:45.790] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=25, z=-307}
+[04Jan2025 00:51:45.790] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-311}
+[04Jan2025 00:51:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Minecraft Comes Alive]
+[04Jan2025 00:51:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was shot by Missionary
+[04Jan2025 00:52:00.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jessi'/30700, l='ServerLevel[world]', x=-1624.96, y=78.88, z=-1867.17] died, message: 'Jessi went up in flames'
+[04Jan2025 00:52:00.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jessi'/30700, l='ServerLevel[world]', x=-1624.96, y=78.88, z=-1867.17] died: Jessi went up in flames
+[04Jan2025 00:52:03.022] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor]] from pos BlockPos{x=-1451, y=81, z=-2037}
+[04Jan2025 00:52:07.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
+[04Jan2025 00:52:07.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 2.634719061936039,3.0,-9.358072304298048
+[04Jan2025 00:52:07.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 2.4229997863951667,3.0,-9.795660691066814
+[04Jan2025 00:52:07.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 2.1797052163381068,4.0,-10.216600207178772
+[04Jan2025 00:52:07.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALX moved too quickly! -8.883700761710344,0.1754232959521005,4.8060000352923
+[04Jan2025 00:52:07.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 1.8984741834804026,4.0,-10.612067287623177
+[04Jan2025 00:52:07.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 1.5729298768101216,4.0,-10.969094499404719
+[04Jan2025 00:52:07.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 1.187750494751299,5.0,-11.245448088615376
+[04Jan2025 00:52:07.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 0.7546865692163465,5.0,-11.376512018022822
+[04Jan2025 00:52:07.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 0.306012473132796,5.0,-11.377889315039283
+[04Jan2025 00:52:07.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -0.1026924036143555,5.0,-11.225053514673618
+[04Jan2025 00:52:07.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -0.47576356753074833,5.0,-10.976059614192991
+[04Jan2025 00:52:07.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -0.8407838881209955,5.0,-10.686501369249982
+[04Jan2025 00:52:07.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -1.2014963629640079,5.0,-10.375237952350972
+[04Jan2025 00:52:07.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -1.5599037954368669,5.0,-10.052360530692795
+[04Jan2025 00:52:07.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -1.9170778456948483,6.0,-9.723268686646179
+[04Jan2025 00:52:07.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -2.2735919377207665,6.0,-9.39085162908168
+[04Jan2025 00:52:07.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -2.6297528992549815,6.0,-9.056655316061551
+[04Jan2025 00:52:07.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -2.9857249077035704,6.0,-8.721506958921509
+[04Jan2025 00:52:07.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -3.3411905827183546,6.0,-8.385421557670497
+[04Jan2025 00:52:07.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -3.684890640462754,6.0,-8.037562717435321
+[04Jan2025 00:52:07.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.010049434266421,6.0,-7.672986466214752
+[04Jan2025 00:52:07.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.231789428485627,6.0,-7.255391924958985
+[04Jan2025 00:52:07.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.350438078373827,6.0,-7.031945411869856
+[04Jan2025 00:52:07.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.413924605330067,6.0,-6.912383637758694
+[04Jan2025 00:52:07.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.4478949801195995,6.0,-6.848408516236532
+[04Jan2025 00:52:07.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.466071850373282,6.0,-6.814176704236388
+[04Jan2025 00:52:07.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.475797931238276,6.0,-6.7958599441437855
+[04Jan2025 00:52:07.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! -4.481002163191988,6.0,-6.786059011014913
+[04Jan2025 00:52:07.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.7473340293861384
+[04Jan2025 00:52:07.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.5748733767177328
+[04Jan2025 00:52:07.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.3702467629807416
+[04Jan2025 00:52:07.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.1484087847961746
+[04Jan2025 00:52:07.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 2.9173613486532304
+[04Jan2025 00:52:07.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 2.6808741570428083
+[04Jan2025 00:52:07.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 2.4414762607389093
+[04Jan2025 00:52:07.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 2.2005209043866216
+[04Jan2025 00:52:07.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.9587321822150443
+[04Jan2025 00:52:07.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.8293558577279327
+[04Jan2025 00:52:07.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.7601291659805156
+[04Jan2025 00:52:07.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.6983928005010966
+[04Jan2025 00:52:07.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.6433363081796415
+[04Jan2025 00:52:07.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.5942369269123446
+[04Jan2025 00:52:07.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.5504500974363964
+[04Jan2025 00:52:07.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.5270206379989304
+[04Jan2025 00:52:07.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.514484001387018
+[04Jan2025 00:52:07.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 3.5077758970894592
+[04Jan2025 00:52:07.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 2.469045867223258
+[04Jan2025 00:52:07.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 2.407309017691432
+[04Jan2025 00:52:07.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.8730218312045963,3.0,-10.849209715420102
+[04Jan2025 00:52:07.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 3.9558816057435706,3.0,-10.39687154220087
+[04Jan2025 00:52:07.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 4.041231401797631,3.0,-9.930980782991355
+[04Jan2025 00:52:07.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved too quickly! 4.127913558718774,3.0,-9.457838305227824
+[04Jan2025 00:52:08.286] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1451, y=81, z=-2037} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[04Jan2025 00:52:08.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1451, y=81, z=-2037}
+[04Jan2025 00:52:08.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1450, y=81, z=-2037} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[04Jan2025 00:52:08.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1450, y=81, z=-2037}
+[04Jan2025 00:52:08.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1450, y=80, z=-2037} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[04Jan2025 00:52:08.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1450, y=80, z=-2037}
+[04Jan2025 00:52:18.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Zombie Villager
+[04Jan2025 00:56:48.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.26840238002637307
+[04Jan2025 00:56:48.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.5347108044079505
+[04Jan2025 00:56:48.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.7995347266287354
+[04Jan2025 00:56:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [Roadrunners Beware!]
+[04Jan2025 00:57:22.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.4004105809021894
+[04Jan2025 00:57:23.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.8750702472677858
+[04Jan2025 00:57:23.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.3525793807007176
+[04Jan2025 00:58:53.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.49629148046892624
+[04Jan2025 00:58:53.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.884916834862679
+[04Jan2025 00:58:53.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.36280379870345314
+[04Jan2025 00:59:34.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [All Puffed Up]
+[04Jan2025 00:59:36.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [In The Pines]
+[04Jan2025 01:02:15.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.25524103648194796
+[04Jan2025 01:02:15.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 0.7355030619107765
+[04Jan2025 01:02:15.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Chamuscado) moved wrongly! 1.0
+[04Jan2025 01:02:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Spiders Mother
+[04Jan2025 01:02:47.851] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.12.jar%23250!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.12.jar%23250!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.12.jar%23250!/:1.20.1-1.10.12]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:02:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was frozen to death by Zombie
+[04Jan2025 01:06:01.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [Light as a Rabbit]
+[04Jan2025 01:07:20.288] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@39366c21, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:07:20.417] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5fcfb25f, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:07:20.824] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@1f2aaa8a, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:07:21.489] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[04Jan2025 01:07:21.490] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[04Jan2025 01:07:21.490] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[04Jan2025 01:07:21.490] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[04Jan2025 01:07:21.558] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[04Jan2025 01:07:22.714] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@58dfb32b, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:07:25.324] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@1e0c3c3c, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:07:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Roadrunners Beware!]
+[04Jan2025 01:07:26.093] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[04Jan2025 01:07:26.094] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[04Jan2025 01:07:26.935] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@19f46ef2, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:07:27.340] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3a5ce0d4, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.EntityType.m_20676_()" because the return value of "untamedwilds.block.blockentity.CritterBurrowBlockEntity.getEntityType()" is null
+	at untamedwilds.block.CritterBurrowBlock.m_6227_(CritterBurrowBlock.java:113) ~[untamedwilds-1.20.1-4.0.4.jar%23249!/:4.0.4]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 01:09:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [Vampire Diaries]
+[04Jan2025 01:14:50.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado fell from a high place
+[04Jan2025 01:15:10.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALX lost connection: Disconnected
+[04Jan2025 01:15:10.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX left the game
+[04Jan2025 01:15:18.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALX[/100.83.101.97:53664] logged in with entity id 71347 at (-830.7132436086827, 133.0, -2163.416697115385)
+[04Jan2025 01:15:18.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX joined the game
+[04Jan2025 01:15:18.273] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[04Jan2025 01:15:18.278] [Server thread/INFO] [Jade/]: Syncing config to ALX (ee826895-6c09-3a66-acfb-9db9781b6aed)
+[04Jan2025 01:16:17.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX burned to death
+[04Jan2025 01:22:49.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chamuscado lost connection: Disconnected
+[04Jan2025 01:22:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado left the game
+[04Jan2025 01:32:36.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has made the advancement [Hog Wild!]
+[04Jan2025 01:34:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX has completed the challenge [Hunt of a Lifetime!]
+[04Jan2025 01:35:38.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX burned to death
+[04Jan2025 01:43:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was shot by Skeleton
+[04Jan2025 01:51:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX burned to death
+[04Jan2025 01:55:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Spider
+[04Jan2025 01:56:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALX was slain by Nightmare Stalker

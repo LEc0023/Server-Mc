@@ -52,12 +52,15 @@
       "minecraft:snowy_slopes": "2025-01-03 22:38:55 +0000",
       "minecraft:deep_ocean": "2025-01-03 22:30:16 +0000",
       "minecraft:sunflower_plains": "2025-01-03 22:58:39 +0000",
+      "minecraft:cherry_grove": "2025-01-04 01:14:57 +0000",
       "minecraft:beach": "2025-01-03 21:08:52 +0000",
       "minecraft:dark_forest": "2025-01-03 21:07:57 +0000",
       "minecraft:stony_shore": "2025-01-03 22:17:00 +0000",
+      "minecraft:grove": "2025-01-04 01:01:34 +0000",
       "minecraft:forest": "2025-01-03 20:57:10 +0000",
       "minecraft:lush_caves": "2025-01-03 21:44:28 +0000",
       "minecraft:ocean": "2025-01-03 21:40:51 +0000",
+      "minecraft:frozen_peaks": "2025-01-04 01:06:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 21:14:42 +0000",
       "minecraft:meadow": "2025-01-03 23:24:45 +0000",
       "minecraft:plains": "2025-01-03 22:22:51 +0000"
@@ -82,7 +85,8 @@
       "minecraft:spider": "2025-01-03 22:33:37 +0000",
       "minecraft:enderman": "2025-01-03 22:53:36 +0000",
       "minecraft:zombie": "2025-01-03 21:11:42 +0000",
-      "minecraft:drowned": "2025-01-03 22:02:13 +0000"
+      "minecraft:drowned": "2025-01-03 22:02:13 +0000",
+      "minecraft:zombie_villager": "2025-01-04 00:52:40 +0000"
     },
     "done": false
   },
@@ -164,9 +168,74 @@
     },
     "done": true
   },
-  "cnc:ringtailadvancement": {
+  "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
-      "ringtailadvancement_0": "2025-01-03 23:00:43 +0000"
+      "ghoul": "2025-01-03 21:34:00 +0000"
+    },
+    "done": true
+  },
+  "cnc:black_bearadvancement": {
+    "criteria": {
+      "black_bearadvancement_0": "2025-01-03 21:37:21 +0000"
+    },
+    "done": true
+  },
+  "cnc:howleradvancement": {
+    "criteria": {
+      "howleradvancement_0": "2025-01-03 21:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-03 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2025-01-03 21:43:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-01-03 23:07:13 +0000",
+      "onion": "2025-01-04 00:34:10 +0000",
+      "tomato": "2025-01-03 23:06:58 +0000",
+      "sugar_cane": "2025-01-03 21:45:29 +0000",
+      "potato": "2025-01-03 21:43:20 +0000",
+      "carrot": "2025-01-03 23:07:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 21:44:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-03 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-01-03 22:07:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-01-03 22:07:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-01-03 22:20:13 +0000"
     },
     "done": true
   },
@@ -176,15 +245,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "cnc:wechugeadvancement": {
     "criteria": {
-      "slept_in_bed": "2025-01-03 23:26:12 +0000"
+      "wechugeadvancement_0": "2025-01-03 22:25:27 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/kill_graveyard_mob": {
+  "graveyard:graveyard/root": {
     "criteria": {
-      "ghoul": "2025-01-03 21:34:00 +0000"
+      "grave_04": "2025-01-03 22:40:16 +0000"
+    },
+    "done": true
+  },
+  "gnumus:fatty_demon": {
+    "criteria": {
+      "fatty_demon": "2025-01-03 22:44:24 +0000"
+    },
+    "done": true
+  },
+  "cnc:harmless_snakeadvancement": {
+    "criteria": {
+      "harmless_snakeadvancement_0": "2025-01-03 22:45:23 +0000"
+    },
+    "done": true
+  },
+  "cnc:bewitched_grey_wolf_advancement": {
+    "criteria": {
+      "bewitched_grey_wolf_advancement_0": "2025-01-03 22:48:03 +0000"
+    },
+    "done": true
+  },
+  "gnumus:vasebreaker": {
+    "criteria": {
+      "vasebreaker": "2025-01-03 22:57:33 +0000"
+    },
+    "done": true
+  },
+  "cnc:ringtailadvancement": {
+    "criteria": {
+      "ringtailadvancement_0": "2025-01-03 23:00:43 +0000"
     },
     "done": true
   },
@@ -200,110 +299,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2025-01-03 23:37:10 +0000"
-    },
-    "done": true
-  },
-  "cnc:wechugeadvancement": {
-    "criteria": {
-      "wechugeadvancement_0": "2025-01-03 22:25:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "supplementaries:flax": "2025-01-03 21:43:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-03 22:06:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-01-03 23:09:38 +0000",
-      "cookie": "2025-01-03 23:21:46 +0000"
-    },
-    "done": false
-  },
-  "gnumus:fatty_demon": {
-    "criteria": {
-      "fatty_demon": "2025-01-03 22:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-03 21:42:36 +0000"
-    },
-    "done": true
-  },
-  "cnc:howleradvancement": {
-    "criteria": {
-      "howleradvancement_0": "2025-01-03 21:37:52 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_04": "2025-01-03 22:40:16 +0000"
-    },
-    "done": true
-  },
-  "cnc:ringtail_mineadvancement": {
-    "criteria": {
-      "ringtail_mineadvancement_0": "2025-01-03 23:20:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-03 21:44:19 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-03 23:01:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "glow_berries": "2025-01-03 23:07:13 +0000",
-      "tomato": "2025-01-03 23:06:58 +0000",
-      "sugar_cane": "2025-01-03 21:45:29 +0000",
-      "potato": "2025-01-03 21:43:20 +0000",
-      "carrot": "2025-01-03 23:07:01 +0000"
-    },
-    "done": false
-  },
-  "cnc:black_bearadvancement": {
-    "criteria": {
-      "black_bearadvancement_0": "2025-01-03 21:37:21 +0000"
-    },
-    "done": true
-  },
-  "gnumus:vasebreaker": {
-    "criteria": {
-      "vasebreaker": "2025-01-03 22:57:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-01-03 22:07:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-01-03 22:20:13 +0000"
     },
     "done": true
   },
@@ -313,21 +311,77 @@
     },
     "done": true
   },
-  "cnc:bewitched_grey_wolf_advancement": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bewitched_grey_wolf_advancement_0": "2025-01-03 22:48:03 +0000"
+      "bread": "2025-01-03 23:09:38 +0000",
+      "cookie": "2025-01-03 23:21:46 +0000",
+      "carrot": "2025-01-04 01:35:00 +0000"
+    },
+    "done": false
+  },
+  "cnc:ringtail_mineadvancement": {
+    "criteria": {
+      "ringtail_mineadvancement_0": "2025-01-03 23:20:02 +0000"
     },
     "done": true
   },
-  "cnc:harmless_snakeadvancement": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "harmless_snakeadvancement_0": "2025-01-03 22:45:23 +0000"
+      "slept_in_bed": "2025-01-03 23:26:12 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
+  "mca:recipes/misc/bouquet": {
     "criteria": {
-      "has_item": "2025-01-03 22:07:25 +0000"
+      "has_item": "2025-01-03 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "cnc:coyoteadvancement": {
+    "criteria": {
+      "coyoteadvancement_0": "2025-01-04 00:56:56 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:all_puffed_up": {
+    "criteria": {
+      "all_puffed_up_0": "2025-01-04 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:in_the_pines": {
+    "criteria": {
+      "in_the_pines_0": "2025-01-04 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-01-04 01:06:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2025-01-04 01:08:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-01-04 01:09:32 +0000"
+    },
+    "done": true
+  },
+  "cnc:giant_boaradvancement": {
+    "criteria": {
+      "giant_boaradvancement_0": "2025-01-04 01:32:35 +0000"
+    },
+    "done": true
+  },
+  "cnc:giant_boar_killed": {
+    "criteria": {
+      "giant_boar_killed_0": "2025-01-04 01:34:30 +0000"
     },
     "done": true
   },

@@ -52,6 +52,7 @@
       "minecraft:snowy_slopes": "2025-01-03 22:40:10 +0000",
       "minecraft:sunflower_plains": "2025-01-03 22:50:40 +0000",
       "minecraft:bamboo_jungle": "2025-01-03 23:06:18 +0000",
+      "minecraft:savanna_plateau": "2025-01-04 01:06:08 +0000",
       "minecraft:beach": "2025-01-03 22:50:49 +0000",
       "minecraft:dark_forest": "2025-01-03 21:41:45 +0000",
       "minecraft:sparse_jungle": "2025-01-03 23:35:09 +0000",
@@ -65,6 +66,7 @@
       "minecraft:frozen_peaks": "2025-01-03 22:58:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 21:16:10 +0000",
       "minecraft:meadow": "2025-01-03 22:41:56 +0000",
+      "minecraft:savanna": "2025-01-04 00:51:25 +0000",
       "minecraft:plains": "2025-01-03 21:33:57 +0000"
     },
     "done": false
@@ -323,15 +325,45 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-04 00:01:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-01-04 00:01:40 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "under_the_moon:is_it_alive": {
     "criteria": {
-      "obsidian": "2025-01-04 00:01:37 +0000"
+      "is_it_alive_0": "2025-01-04 00:04:11 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:mooncharm": {
+    "criteria": {
+      "mooncharm_0": "2025-01-04 00:04:17 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-01-04 00:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-04 00:35:21 +0000"
+    },
+    "done": true
+  },
+  "cnc:coyoteadvancement": {
+    "criteria": {
+      "coyoteadvancement_0": "2025-01-04 01:07:25 +0000"
     },
     "done": true
   },
